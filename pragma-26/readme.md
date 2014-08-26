@@ -99,7 +99,7 @@ All presentations are in Power Point pptx format except where noted
 
 #### Breakout Sessions for Working Groups
 
-1. Resources, Networking and Data
++ Resources, Networking and Data
 
    * [A Network-aware Job Management System everaging Software
      Defined Networking][33], Yasuhiro Watashiba
@@ -109,7 +109,7 @@ All presentations are in Power Point pptx format except where noted
    * [PRAGMA Experimental Network Testbed (ENT)][35],
      Mauricio Tsugawa, UF and Kohei Ichikawa NAIST, (PDF format)
 
-2. Cyber-learning/Distance Education
++ Cyber-learning/Distance Education
 
    * [Active Folder : Integrating All Activities of
      Simulation on File System][36], Suntae Hwang
