@@ -3,8 +3,9 @@ pragma-meetings
 
 Pragma Presentations
 
-Meeting                                          |   Links 
+Meetings                                         |   Links 
 -------------------------------------------------|---------
+**Pragma 27** October 15-17, 2014, Bloomington, Indiana USA | [presentations][] - [website][]
 **Pragma 26** April 9-11, 2014, Tainan, Taiwan   | [presentations][1] - [website][2]
 **Pragma 25** October 16-18, 2013 Beijing, China | [presentations][3] - [website][4]
 
