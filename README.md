@@ -16,5 +16,5 @@ Meetings                                         |   Links
 [2]: http://pragma26.pragma-grid.net/dct/page/1
 [3]: pragma25/readme.md 
 [4]: http://pragma25.pragma-grid.net/dct/page/1
-[3]: pragma24/readme.md 
-[4]: http://pragma24.pragma-grid.net/dct/page/1
+[5]: pragma24/readme.md 
+[6]: http://pragma24.pragma-grid.net/dct/page/1
