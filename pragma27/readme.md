@@ -6,8 +6,9 @@ All presentations are in Power Point pptx format except where noted
 
 [PRAGMA27 Expedition Programming Challenge][13]
 
-* [Use Case I: Biodiversity Programming Challenge][11]
-* [Use Case II: GLEON Programming Challenge][12]
+* Challenge I: [Build up Lifemapper Biodiversity Infrastructure][11]
+* Challenge II: [Analyze optimization of Lake Buoy Data I/O Overhead][12]
+* Challenge III: Lake Sensor Data QA/QC
 
 Track I: Student Lightning Talks
 
