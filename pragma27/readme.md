@@ -67,7 +67,7 @@ All presentations are in Power Point pptx format except where noted
     Chawanat Nakasan, Huang Che, Kohei Ichikawa, Luca Clementi, Philip Papadpoulos
     NAIST, Osaka Kyoiku Univ., UCSD
 
-    * Deployment of a Multi-Cloud Environment for Virtual Screening
+    * [Deployment of a Multi-Cloud Environment for Virtual Screening][9],
     Anthony Nguyen, Jason Haga, Kohei Ichikawa, Andrea Matsunaga, Mauricio Tsugawa
     UCSD, AIST, NAIST, University of Florida
 
@@ -76,6 +76,9 @@ All presentations are in Power Point pptx format except where noted
    * Bioscience, Jason Haga
    * Cyber-learning/Distance Education Jong Suk Ruth Lee
    * Resources, Networking and Data Philip Papadopoulos, Beth Plale
+
+       * [PRAGMA EXperimental Network Testbed (ENT)][10] Mauricio Tsugawa, Kohei Ichikawa
+
    * Telesciences/Remote Sensing/Geoscience Fang-Pang Lin, Shimojo Shinji, Sorthep Vannarat
 
 * 3:45pm Track I: Student Expedition Programming Challenge Report
@@ -91,4 +94,6 @@ All presentations are in Power Point pptx format except where noted
 [6]: presentations/october-17/lifemapper-demo.pptx
 [7]: presentations/october-17/htcondor-overlay-demo.pdf  
 [8]: presentations/october-17/overseer-demo.pdf
+[9]: presentations/october-17/deployment-vm-docking.ppt
+[10]: presentations/october-17/pragma-ent.pdf
 
