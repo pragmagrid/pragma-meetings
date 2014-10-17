@@ -21,14 +21,19 @@ Track I: Student Lightning Talks
 * 10:35am - 10:55am [PRAGMA Update][2], Peter Arzberger
 * 11:15am - 12:30pm Working Group Updates - Session I
 
+    * Bioscience Jason Haga
+    * [Cyber-learning/Distance Education][5], Jong Suk Ruth Lee
+    * Resources, Networking and Data. Beth Plale, Philip Papadopoulos, Yoshio Tanaka
+    * [Telesciences/Remote Sensing/Geoscience.][4] Fang-Pang Lin, Shimojo Shinji, Sorthep Vannarat
+
 12:30pm Lunch break
 
 * 1:45 Working Group Breakout Session I 
 
     * Bioscience Jason Haga
-    * [Cyber-learning/Distance Education][5], Jong Suk Ruth Lee
+    * Cyber-learning/Distance Education, Jong Suk Ruth Lee
     * Resources, Networking and Data. Beth Plale, Philip Papadopoulos, Yoshio Tanaka
-    * [Telesciences/Remote Sensing/Geoscience.][4] Fang-Pang Lin, Shimojo Shinji, Sorthep Vannarat
+    * Telesciences/Remote Sensing/Geoscience. Fang-Pang Lin, Shimojo Shinji, Sorthep Vannarat
 
 * 3:30pm - 4:45pm Demonstration/Innovation Session I: Potpourri 
 
