@@ -4,6 +4,14 @@ All presentations are in Power Point pptx format except where noted
 
 ### October 15
 
+[PRAGMA27 Expedition Programming Challenge][13]
+
+* [Use Case I: Biodiversity Programming Challenge][11]
+* [Use Case II: GLEON Programming Challenge][12]
+
+Track I: Student Lightning Talks
+
+
 ### October 16
 
 * 9:00am  Welcome Address & Opening Remarks. Beth Plale, Brad Wheeler, Peter Arzberger
@@ -96,4 +104,6 @@ All presentations are in Power Point pptx format except where noted
 [8]: presentations/october-17/overseer-demo.pdf
 [9]: presentations/october-17/deployment-vm-docking.ppt
 [10]: presentations/october-17/pragma-ent.pdf
-
+[11]: presentations/october-15/challenge/gleon-programming-challenge.pptx  
+[12]: presentations/october-15/challenge/lifemapper-challenge.pptx
+[13]: http://pragma27.pragma-grid.net/dct/page/70006
