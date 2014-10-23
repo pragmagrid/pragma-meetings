@@ -126,6 +126,8 @@ Track I: Student Lightning Talks
      Technology at HCM City][23], Thanh Truong
    * [Telesciences/Geosciences update][28], Shinji Shimojo
    * [Biosciences update][29], Jason Haga
+   * [Resources, Networking and Data update][36], Phil Papadopoulos
+   * [Cyberlearning update][37], Ruth Lee
    * [Steering Committee Report][31], Peter Arzberger
 
 
@@ -165,10 +167,12 @@ Track I: Student Lightning Talks
 
 [28]: presentations/october-17/telescience-update.pptx
 [29]: presentations/october-17/biosciences-update.pptx
-[30]: presentations/october-17/resources-update.pptx
+[30]: presentations/october-17/resources-report.pptx
 [31]: presentations/october-17/steering-committee-report.pptx
 
 [32]: presentations/october-17/student-challenge-report.pptx
 [33]: presentations/october-17/challenge-3-1.pptx
 [34]: presentations/october-17/challenge-1.pptx
 [35]: presentations/october-17/challenge-3-2.pptx
+[36]: presentations/october-17/resources-update.pptx
+[37]: presentations/october-17/cyberlearning-update.pptx
