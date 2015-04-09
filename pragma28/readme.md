@@ -1,23 +1,34 @@
 ## Pragma 28 Presentations
 
 All presentations are in Power Point pptx format except where noted
+As soon as presentations slides become available they will be linked on this page.
 
 ### April 8
 
 #### PRAGMA Student Workshop
 
-* 09:00-9:15 Introduction and Welcome Quan Zhou (IU)
+* 09:00-9:15 [Introduction and Welcome][1] Quan Zhou (IU)
 * 9:15-10:15 Invited Talks Speakers
-     
-	  * talk
-	  * talk
-	  * talk
+	  * [Kohei Ichikawa][2] (NAIST)
+	  * [Nadya Williams][3] (UCSD) 
+	  * [Beth Plale][4] (IUB)
 
 * 10:15-11:15	Lightening Talks
 
-	  * talk
-	  * talk
-	  * talk
+	  * [Data Management system for The NAEMP in Korea][12], Meilan Jiang (KU)
+	  * [netspec: Network Test Tool for Software-Defined Network][14], Kazuki Hara (NAIST)
+	  * A Linked Data based Approach to A Carbohydrate Complexation Database Yinling An (KU)
+	  * A simulation study of time-limited VM migration scheduling in WANs Taweesil Wongratchatapokai (TU)
+	  * [Control Sequence Generator for Generic SDN-enabled MPI Framework][11], Keichi Takahashi (OsakaU)
+	  * A PROV pingback Model For Komadu Provenance System Quan Zhou (IUB)
+	  * [A Multipath Controller for Accelerating GridFTP Transfer over SDN
+	    Japan][13], Che Huang (NAIST)
+	  * The prototype of Fine-Grained Bandwidth-Allocating Middleware in
+	    Software-Defined Networks Vasuwat Tan-anannuwat (TU)
+	  * [A Hybrid game contents streaming method to improve graphic quality
+	    delivered by cloud gaming][15], Kar Long Chan (NAIST)
+	  * Pipelined Data Processing Architecture for Network Storage Systems
+	    Hiroki Ohtsuji (Tsukuba)
 
 * 11:15-11:30	Wrap-up	
 * 11:30-13:00	Lunch 
@@ -25,14 +36,24 @@ All presentations are in Power Point pptx format except where noted
 #### Resources, Networking & Data Working Group Pre-meeting
 
 * 13:00-15:00 [Resources & Data Working Group Pre-meeting] Philip Papadopoulos (UCSD)
+	  * [Pragma Cloud Scheduler][5], Shava Smallen
+	  * [Open ID][6], Hui-Shan Chen
 
 #### Demo Workshop for Network-intensive Applications
 
 * 15:20-15:30	Welcome and Introduction Kazutoshi Fujikawa (NAIST) 
-* 15:30-18:00	Network-Intensive Applications Demo session,  Mauricio Tsugawa (UF)
+* 15:30-16:20	Network-Intensive Applications Demo session I,  Mauricio Tsugawa (UF)
 
-	  * demo
-	  * demo
+	  * [Disaster Mitigation by realtime analysis of TSUNAMI 
+	    using federated supercomputers][7]
+	  * Demonstration of Meteorological Big Data Visualizations on TDW
+
+* 16:30-18:10	Network-Intensive Applications Demo session II,  Mauricio Tsugawa (UF)
+
+	  * [Inter-Cloud Global Distributed File System for PRAGMA][8]
+	  * [An Implementation of SDN-enhanced Job Management System with Bandwidth Control][9]
+	  * [Multi-tenancy in PRAGMA-ENT using AutoVFlow][10]
+	  * Japan-Taiwan Satellite Image Transmission through PRAGMA Network testbed
 
 ### April 9
 
@@ -86,13 +107,25 @@ All presentations are in Power Point pptx format except where noted
 	*  Wrap up Kazutoshi Fujikawa (PRAGMA28 General Chair, NAIST)
 	*  Welcome by PRAGMA 29 organizers Heru Suhartanto (Universitas Indonesia)
 
- [1]: presentations/april-08/
- [2]: presentations/april-08/
- [3]: presentations/april-08/
- [4]: presentations/april-08/
- [5]: presentations/april-08/
- [6]: presentations/april-08/
- [7]: presentations/april-08/
+ [1]: presentations/april-08/student-workshop/intro.pptx
+ [2]: presentations/april-08/student-workshop/invited-talks/ichikawa.pptx
+ [3]: presentations/april-08/student-workshop/invited-talks/nwilliams.pptx
+ [4]: presentations/april-08/student-workshop/invited-talks/bplale.pptx
+
+ [5]: presentations/april-08/resources/cloud-scheduler.pptx
+ [6]: presentations/april-08/resources/open-id.ppt
+
+ [7]: presentations/april-08/network-intensive-apps/disaster-mitigation.pdf
+ [8]: presentations/april-08/network-intensive-apps/inter-cloud.pdf
+ [9]: presentations/april-08/network-intensive-apps/sdn-enhanced.pptx
+[10]: presentations/april-08/network-intensive-apps/multi-tenancy.pptx
+
+[11]: presentations/april-08/student-workshop/lightning-talks/control-sequence-generator.pdf
+[12]: presentations/april-08/student-workshop/lightning-talks/data-management.pptx
+[13]: presentations/april-08/student-workshop/lightning-talks/multipath-controller.pptx
+[14]: presentations/april-08/student-workshop/lightning-talks/netspec.pptx
+[15]: http://prezi.com/edlupsluud5p/?utm_campaign=share&utm_medium=copy&rc=ex0share
+
 
     : presentations/april-09
     : presentations/april-10
