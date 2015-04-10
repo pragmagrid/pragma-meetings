@@ -1,6 +1,7 @@
 ## Pragma 28 Presentations
 
-All presentations are in Power Point pptx format except where noted
+All presentations are in Power Point pptx format except where noted.
+
 As soon as presentations slides become available they will be linked on this page.
 
 ### April 8
@@ -14,20 +15,22 @@ As soon as presentations slides become available they will be linked on this pag
 	  * [Beth Plale][4] (IUB)
 
 * 10:15-11:15	Lightening Talks
-
 	  * [Data Management system for The NAEMP in Korea][12], Meilan Jiang (KU)
 	  * [netspec: Network Test Tool for Software-Defined Network][14], Kazuki Hara (NAIST)
-	  * A Linked Data based Approach to A Carbohydrate Complexation Database Yinling An (KU)
-	  * A simulation study of time-limited VM migration scheduling in WANs Taweesil Wongratchatapokai (TU)
-	  * [Control Sequence Generator for Generic SDN-enabled MPI Framework][11], Keichi Takahashi (OsakaU)
-	  * A PROV pingback Model For Komadu Provenance System Quan Zhou (IUB)
+	  * [A Linked Data based Approach to A Carbohydrate Complexation
+	    Database][20], Yinling An (KU)
+	  * [A simulation study of time-limited VM migration scheduling in 
+	    WANs][19] Taweesil Wongratchatapokai (TU)
+	  * [Control Sequence Generator for Generic SDN-enabled MPI Framework][11] (pdf), 
+	    Keichi Takahashi (OsakaU)
+	  * [A PROV pingback Model For Komadu Provenance System][17], Quan Zhou (IUB)
 	  * [A Multipath Controller for Accelerating GridFTP Transfer over SDN
 	    Japan][13], Che Huang (NAIST)
-	  * The prototype of Fine-Grained Bandwidth-Allocating Middleware in
-	    Software-Defined Networks Vasuwat Tan-anannuwat (TU)
+	  * [The prototype of Fine-Grained Bandwidth-Allocating Middleware in
+	    Software-Defined Networks][18], Vasuwat Tan-anannuwat (TU)
 	  * [A Hybrid game contents streaming method to improve graphic quality
-	    delivered by cloud gaming][15], Kar Long Chan (NAIST)
-	  * Pipelined Data Processing Architecture for Network Storage Systems
+	    delivered by cloud gaming][15], (http) Kar Long Chan (NAIST)
+	  * [Pipelined Data Processing Architecture for Network Storage Systems][16], (pdf)
 	    Hiroki Ohtsuji (Tsukuba)
 
 * 11:15-11:30	Wrap-up	
@@ -43,14 +46,12 @@ As soon as presentations slides become available they will be linked on this pag
 
 * 15:20-15:30	Welcome and Introduction Kazutoshi Fujikawa (NAIST) 
 * 15:30-16:20	Network-Intensive Applications Demo session I,  Mauricio Tsugawa (UF)
-
 	  * [Disaster Mitigation by realtime analysis of TSUNAMI 
-	    using federated supercomputers][7]
+	    using federated supercomputers][7] (pdf)
 	  * Demonstration of Meteorological Big Data Visualizations on TDW
 
 * 16:30-18:10	Network-Intensive Applications Demo session II,  Mauricio Tsugawa (UF)
-
-	  * [Inter-Cloud Global Distributed File System for PRAGMA][8]
+	  * [Inter-Cloud Global Distributed File System for PRAGMA][8] (pdf)
 	  * [An Implementation of SDN-enhanced Job Management System with Bandwidth Control][9]
 	  * [Multi-tenancy in PRAGMA-ENT using AutoVFlow][10]
 	  * Japan-Taiwan Satellite Image Transmission through PRAGMA Network testbed
@@ -125,6 +126,11 @@ As soon as presentations slides become available they will be linked on this pag
 [13]: presentations/april-08/student-workshop/lightning-talks/multipath-controller.pptx
 [14]: presentations/april-08/student-workshop/lightning-talks/netspec.pptx
 [15]: http://prezi.com/edlupsluud5p/?utm_campaign=share&utm_medium=copy&rc=ex0share
+[16]: presentations/april-08/student-workshop/lightning-talks/pipelined-data.pdf
+[17]: presentations/april-08/student-workshop/lightning-talks/pingback-komadu.pptx
+[18]: presentations/april-08/student-workshop/lightning-talks/fgbam.pptx
+[19]: presentations/april-08/student-workshop/lightning-talks/vm-migration.pptx
+[20]: presentations/april-08/student-workshop/lightning-talks/linked-data.pptx
 
 
     : presentations/april-09
