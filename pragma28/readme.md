@@ -51,10 +51,22 @@ As soon as presentations slides become available they will be linked on this pag
 	  * Demonstration of Meteorological Big Data Visualizations on TDW
 
 * 16:30-18:10	Network-Intensive Applications Demo session II,  Mauricio Tsugawa (UF)
-	  * [Inter-Cloud Global Distributed File System for PRAGMA][8] (pdf)
-	  * [An Implementation of SDN-enhanced Job Management System with Bandwidth Control][9]
-	  * [Multi-tenancy in PRAGMA-ENT using AutoVFlow][10]
-	  * Japan-Taiwan Satellite Image Transmission through PRAGMA Network testbed
+	  * [Inter-Cloud Global Distributed File System for PRAGMA][8] (pdf),
+	    Nakagawa Ikuo (Osaka University), Kohei Ichikawa (NAIST), Yoshiaki
+		Kitaguchi (Kanazawa University), Tohru Kondo (Hiroshima University),
+		Hiroki Kashiwazaki, Shinji Shimojo (Osaka University)
+	  * [An Implementation of SDN-enhanced Job Management System with Bandwidth Control][9],
+	    Yasuhiro Watashiba, Susumu Date (Osaka University), Hirotake Abe
+		(University of Tsukuba), Yoshiyuki Kido (Osaka University), Kohei
+		Ichikawa (NAIST), Hiroaki Yamanaka, Eiji Kawai (NICT), Shinji Shimojo,
+		Haruo Takemura (Osaka University)
+	  * [Multi-tenancy in PRAGMA-ENT using AutoVFlow][10],
+	    Yamanaka Hiroaki (NICT), Kohei Ichikawa (NAIST), Mauricio Tsugawa
+		(University of Florida)
+	  * [Japan-Taiwan Satellite Image Transmission through PRAGMA Network testbed][23],
+	    Kohei Ichikawa (NAIST), Shinji Shimojo (Osaka University), Stoca
+		Chang, Li-Chi Ku, Whey-Fone Tsai, Fang-Pang Lin (NCHC)
+
 
 ### April 9
 
@@ -70,10 +82,10 @@ As soon as presentations slides become available they will be linked on this pag
 * 11:00-11:10	Group Photo	 	 
 * 11:10-11:30	Coffee break	 	 
 * 11:30-12:30	Working Group Updates	
-     * Bioscience: 
-     * Cyberlearning/Distance Education: 
-     * Telescience/Remote Sensing/Geoscience: 
-     * Resources, Networking & Data
+     * [Biosciences][27]
+     * Cyberlearning/Distance Education
+     * Telescience/Remote Sensing/Geoscience
+     * [Resources, Networking & Data][31]
 * 12:30-14:00	Lunch	
 * 14:00-14:30	"Best" of Lightening Talks	
 * 14:30-15:30	Poster Session / Coffee break
@@ -83,26 +95,53 @@ As soon as presentations slides become available they will be linked on this pag
     * Cyberlearning/Distance Education
 * 17:00-17:10	Coffee Break	 	 
 * 17:10-18:10	Presentation Session I
+    * [Virtual Screening Indonesian Herbal Database as HIV-1 Integrase Inhibitor][24] 
+ 	  (pdf), Arry Yanuar, Widya Dwi Aryati, Rezi Riadhi Syahdi (Universitas Indonesia)
+	* [Metagenomic and phylogenomic applications in studying biological and
+	  medical sciences][26] (pdf), Tommy T.Y. Lam (The University of Hong Kong )
+	* Current Progress on The Development of Cloud Computing platform to support
+	  Drug Design based on Medical Plants: Is it possible to have Cloud Services
+	  Migration Heru Suhartanto, Ari Wibisono, Arry Yanuar (Universitas Indonesia)
+
 * 18:10-18:20	Wrap-up	
 
 ### April 10 
 
 * 9:30-9:40	Opening Remarks Kazutoshi Fujikawa (PRAGMA28 General Chair, NAIST)
 * 09:40-11:00	Demo Session
-	* demo
-	* demo
+	* [A Lightweight Scheduler for PRAGMA Testbed][], Shava Smallen, Nadya Williams, 
+	  Philip Papadopoulos (UCSD), Mauricio Tsugawa, Jose Fortes (University of Florida)
+	* [Distributing Lifemapper across the PRAGMA Infrastructure][33], Nadya Williams (UCSD), 
+	  Aimee Stewart (University of Kansas), Andréa Matsunaga (University of Florida)
+	* [Multi-Cloud Environment for Virtual Screening Using Private and
+	  Commercial Resources][34],
+	  Anthony Nguyen (UCSD), Andrea Matsunaga (University of Florida), Kohei
+	  Ichikawa (NAIST), Mauricio Tsugawa (University of Florida), Jason Haga (AIST)
+
 * 11:00-11:30	Poster Session / Coffee break
 * 11:30-12:30	Presentation Session II
-	* demo
-	* demo
+	* [Nationwide Operational Assessment of Hazards (NOAH): Strengthening
+	  Disaster Resilience in the Philippines][29],
+      Jo Brianne Briones, Donna Miranda (Project NOAH -  WebGIS Component)
+	* [PRAGMA-GLEON Expedition (GRAPLE) - Lake Science on Overlay-networked
+	  Resources][35], Renato Figueiredo (University of Florida), Cayelan Carey (Virginia Tech),
+	  Paul Hanson (University of Wisconsin), Ken Subratie(University of Florida)
+	* [Bird Species Identification][22], Jian Li, BaoPing Yan (Chinese Academy of Sciences)
+	* [Application of pattern recognition technology in the field scientific birds video][21],
+	  Can Chen, Baoping Yan (Computer Network Information Center)
+
 * 12:30-14:30	Lunch / PRAGMA Steering Committee Meeting	
 * 14:30-16:30	Breakout Sessions for Working Groups
     * Resources, Networking & Data
     * Telescience/Remote Sensing/Geoscience
-    * Bioscience
+    * Biosciencess
     * Cyberlearning/Distance Education
 * 16:30-16:50	Poster Session / Coffee break
 * 16:50-17:50	Working Group Updates
+    * [Resources, Networking & Data][25]
+    * [Biosciencess][28]
+    * [Cyberlearning/Distance Education][32]
+
 * 17:50-18:10	
     * Summary of Executive Committee Meeting Peter Arzberger (NSF, PRAGMA Chair)
 	*  Wrap up Kazutoshi Fujikawa (PRAGMA28 General Chair, NAIST)
@@ -120,6 +159,12 @@ As soon as presentations slides become available they will be linked on this pag
  [8]: presentations/april-08/network-intensive-apps/inter-cloud.pdf
  [9]: presentations/april-08/network-intensive-apps/sdn-enhanced.pptx
 [10]: presentations/april-08/network-intensive-apps/multi-tenancy.pptx
+[23]: presentations/april-08/network-intensive-apps/japan-taiwan-satellite.pptx 
+
+[24]: presentations/april-09/virtual-screening.pdf
+[26]: presentations/april-09/metagenomic.pdf
+[27]: presentations/april-09/wg-update-biosciences.pptx
+[31]: presentations/april-09/wg-update-resources.pptx
 
 [11]: presentations/april-08/student-workshop/lightning-talks/control-sequence-generator.pdf
 [12]: presentations/april-08/student-workshop/lightning-talks/data-management.pptx
@@ -132,6 +177,15 @@ As soon as presentations slides become available they will be linked on this pag
 [19]: presentations/april-08/student-workshop/lightning-talks/vm-migration.pptx
 [20]: presentations/april-08/student-workshop/lightning-talks/linked-data.pptx
 
+[21]: presentations/april-10/can-chen.pptx
+[22]: presentations/april-10/li-jian.pptx
+[29]: presentations/april-10/jo-brianne-briones.pptx
+[30]: presentations/april-10/antony-nguyen.pptx
+[33]: presentations/april-10/demo-lifemapper.pptx
+[34]: presentations/april-10/demo-multi-cloud.pptx
+[35]: presentations/april-10/graple.pptx
 
-    : presentations/april-09
-    : presentations/april-10
+[25]: presentations/april-10/wg/resources-breakout.pptx
+[28]: presentations/april-10/wg/update-biosciences.pptx
+[32]: presentations/april-10/wg/update-cyberlearning.pptx
+
