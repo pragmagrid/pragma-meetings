@@ -5,7 +5,7 @@ Pragma Meetings Presentations
 
 Meetings                                         |   Links 
 -------------------------------------------------|---------
-**Pragma 28** April 8-11, 2015 Osaka & Nara, Japan | [presentations][9] - [website][10]
+**Pragma 28** April 8-10, 2015 Osaka & Nara, Japan | [presentations][9] - [website][10]
 **Pragma 27** October 15-17, 2014, Bloomington, Indiana USA | [presentations][7] - [website][8]
 **Pragma 26** April 9-11, 2014, Tainan, Taiwan   | [presentations][1] - [website][2]
 **Pragma 25** October 16-18, 2013, Beijing, China | [presentations][3] - [website][4]
