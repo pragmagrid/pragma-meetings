@@ -67,7 +67,6 @@ As soon as presentations slides become available they will be linked on this pag
 	    Kohei Ichikawa (NAIST), Shinji Shimojo (Osaka University), Stoca
 		Chang, Li-Chi Ku, Whey-Fone Tsai, Fang-Pang Lin (NCHC)
 
-
 ### April 9
 
 * 09:30-9:50	Welcome Address & Introduction 
@@ -102,13 +101,13 @@ As soon as presentations slides become available they will be linked on this pag
 	* Current Progress on The Development of Cloud Computing platform to support
 	  Drug Design based on Medical Plants: Is it possible to have Cloud Services
 	  Migration Heru Suhartanto, Ari Wibisono, Arry Yanuar (Universitas Indonesia)
-
 * 18:10-18:20	Wrap-up	
 
 ### April 10 
 
 * 9:30-9:40	Opening Remarks Kazutoshi Fujikawa (PRAGMA28 General Chair, NAIST)
 * 09:40-11:00	Demo Session
+<<<<<<< HEAD
 	* [A Lightweight Scheduler for PRAGMA Testbed][], Shava Smallen, Nadya Williams, 
 	  Philip Papadopoulos (UCSD), Mauricio Tsugawa, Jose Fortes (University of Florida)
 	* [Distributing Lifemapper across the PRAGMA Infrastructure][33], Nadya Williams (UCSD), 
