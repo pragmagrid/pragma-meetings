@@ -141,7 +141,7 @@ As soon as presentations slides become available they will be linked on this pag
     * [Cyberlearning/Distance Education][32]
 
 * 17:50-18:10	
-    * [Summary of Executive Committee Meeting][41], Peter Arzberger (NSF, PRAGMA Chair)
+    * [Summary of Executive Committee Meeting][41] (pdf), Peter Arzberger (NSF, PRAGMA Chair)
 	* Wrap up Kazutoshi Fujikawa (PRAGMA28 General Chair, NAIST)
 	* Welcome by PRAGMA 29 organizers Heru Suhartanto (Universitas Indonesia)
 
