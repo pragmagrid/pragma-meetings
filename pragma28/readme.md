@@ -121,7 +121,7 @@ As soon as presentations slides become available they will be linked on this pag
 * 11:00-11:30	Poster Session / Coffee break
 * 11:30-12:30	Presentation Session II
 	* [Nationwide Operational Assessment of Hazards (NOAH): Strengthening
-	  Disaster Resilience in the Philippines][29],
+	  Disaster Resilience in the Philippines][29] (pdf),
       Jo Brianne Briones, Donna Miranda (Project NOAH -  WebGIS Component)
 	* [PRAGMA-GLEON Expedition (GRAPLE) - Lake Science on Overlay-networked
 	  Resources][35], Renato Figueiredo (University of Florida), Cayelan Carey (Virginia Tech),
@@ -179,7 +179,7 @@ As soon as presentations slides become available they will be linked on this pag
 
 [21]: presentations/april-10/can-chen.pptx
 [22]: presentations/april-10/li-jian.pptx
-[29]: presentations/april-10/jo-brianne-briones.pptx
+[29]: presentations/april-10/jo-brianne-briones.pdf
 [30]: presentations/april-10/antony-nguyen.pptx
 [33]: presentations/april-10/demo-lifemapper.pptx
 [34]: presentations/april-10/demo-multi-cloud.pptx
