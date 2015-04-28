@@ -130,7 +130,8 @@ As soon as presentations slides become available they will be linked on this pag
 
 * 12:30-14:30	Lunch / PRAGMA Steering Committee Meeting	
 * 14:30-16:30	Breakout Sessions for Working Groups
-    * Resources, Networking & Data [PRAGMA ENT][39] (pdf)
+    * Resources, Networking & Data 
+	  * [PRAGMA ENT][39] (pdf)
     * Telescience/Remote Sensing/Geoscience
     * Biosciencess
     * Cyberlearning/Distance Education
