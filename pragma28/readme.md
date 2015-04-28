@@ -172,7 +172,6 @@ As soon as presentations slides become available they will be linked on this pag
 [20]: presentations/april-08/student-workshop/lightning-talks/linked-data.pptx
 
 [40]: presentations/april-09/overview.pdf
-[41]: presentations/april-09/summary.pdf
 [24]: presentations/april-09/virtual-screening.pdf
 [26]: presentations/april-09/metagenomic.pdf
 [27]: presentations/april-09/wg-update-biosciences.pptx
@@ -189,6 +188,7 @@ As soon as presentations slides become available they will be linked on this pag
 [38]: presentations/april-10/demo-lightweight-scheduler.pptx
 [35]: presentations/april-10/graple.pptx
 [39]: presentations/april-10/pragma-ent.pdf
+[41]: presentations/april-10/summary.pdf
 
 [25]: presentations/april-10/wg/resources-breakout.pptx
 [28]: presentations/april-10/wg/update-biosciences.pptx
