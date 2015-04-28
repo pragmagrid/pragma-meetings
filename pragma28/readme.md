@@ -72,7 +72,7 @@ As soon as presentations slides become available they will be linked on this pag
 * 09:30-9:50	Welcome Address & Introduction 
 
     * Tsukasa Ogasawara (Dean, Graduate School of Information Science, NAIST)
-    * Peter Arzberger (NSF, PRAGMA Chair)
+    * [Peter Arzberger (NSF, PRAGMA Chair)][40] (pdf)
     * Kazutoshi Fujikawa (PRAGMA28 General Chair, NAIST)
 
 * 09:50-10:10	Updates since PRAGMA 27	Peter Arzberger (PRAGMA Chair, NSF)
@@ -82,8 +82,8 @@ As soon as presentations slides become available they will be linked on this pag
 * 11:10-11:30	Coffee break	 	 
 * 11:30-12:30	Working Group Updates	
      * [Biosciences][27]
-     * Cyberlearning/Distance Education
-     * Telescience/Remote Sensing/Geoscience
+     * [Cyberlearning/Distance Education][36]
+     * [Telescience/Remote Sensing/Geoscience][37]
      * [Resources, Networking & Data][31]
 * 12:30-14:00	Lunch	
 * 14:00-14:30	"Best" of Lightening Talks	
@@ -107,8 +107,7 @@ As soon as presentations slides become available they will be linked on this pag
 
 * 9:30-9:40	Opening Remarks Kazutoshi Fujikawa (PRAGMA28 General Chair, NAIST)
 * 09:40-11:00	Demo Session
-<<<<<<< HEAD
-	* [A Lightweight Scheduler for PRAGMA Testbed][], Shava Smallen, Nadya Williams, 
+	* [A Lightweight Scheduler for PRAGMA Testbed][38], Shava Smallen, Nadya Williams, 
 	  Philip Papadopoulos (UCSD), Mauricio Tsugawa, Jose Fortes (University of Florida)
 	* [Distributing Lifemapper across the PRAGMA Infrastructure][33], Nadya Williams (UCSD), 
 	  Aimee Stewart (University of Kansas), Andréa Matsunaga (University of Florida)
@@ -131,7 +130,7 @@ As soon as presentations slides become available they will be linked on this pag
 
 * 12:30-14:30	Lunch / PRAGMA Steering Committee Meeting	
 * 14:30-16:30	Breakout Sessions for Working Groups
-    * Resources, Networking & Data
+    * Resources, Networking & Data [PRAGMA ENT][39] (pdf)
     * Telescience/Remote Sensing/Geoscience
     * Biosciencess
     * Cyberlearning/Distance Education
@@ -142,9 +141,9 @@ As soon as presentations slides become available they will be linked on this pag
     * [Cyberlearning/Distance Education][32]
 
 * 17:50-18:10	
-    * Summary of Executive Committee Meeting Peter Arzberger (NSF, PRAGMA Chair)
-	*  Wrap up Kazutoshi Fujikawa (PRAGMA28 General Chair, NAIST)
-	*  Welcome by PRAGMA 29 organizers Heru Suhartanto (Universitas Indonesia)
+    * [Summary of Executive Committee Meeting][41], Peter Arzberger (NSF, PRAGMA Chair)
+	* Wrap up Kazutoshi Fujikawa (PRAGMA28 General Chair, NAIST)
+	* Welcome by PRAGMA 29 organizers Heru Suhartanto (Universitas Indonesia)
 
  [1]: presentations/april-08/student-workshop/intro.pptx
  [2]: presentations/april-08/student-workshop/invited-talks/ichikawa.pptx
@@ -160,11 +159,6 @@ As soon as presentations slides become available they will be linked on this pag
 [10]: presentations/april-08/network-intensive-apps/multi-tenancy.pptx
 [23]: presentations/april-08/network-intensive-apps/japan-taiwan-satellite.pptx 
 
-[24]: presentations/april-09/virtual-screening.pdf
-[26]: presentations/april-09/metagenomic.pdf
-[27]: presentations/april-09/wg-update-biosciences.pptx
-[31]: presentations/april-09/wg-update-resources.pptx
-
 [11]: presentations/april-08/student-workshop/lightning-talks/control-sequence-generator.pdf
 [12]: presentations/april-08/student-workshop/lightning-talks/data-management.pptx
 [13]: presentations/april-08/student-workshop/lightning-talks/multipath-controller.pptx
@@ -176,13 +170,24 @@ As soon as presentations slides become available they will be linked on this pag
 [19]: presentations/april-08/student-workshop/lightning-talks/vm-migration.pptx
 [20]: presentations/april-08/student-workshop/lightning-talks/linked-data.pptx
 
+[40]: presentations/april-09/overview.pdf
+[41]: presentations/april-09/summary.pdf
+[24]: presentations/april-09/virtual-screening.pdf
+[26]: presentations/april-09/metagenomic.pdf
+[27]: presentations/april-09/wg-update-biosciences.pptx
+[31]: presentations/april-09/wg-update-resources.pptx
+[36]: presentations/april-09/wg-update-cyberlearning.pptx
+[37]: presentations/april-09/wg-update-telescience.pptx
+
 [21]: presentations/april-10/can-chen.pptx
 [22]: presentations/april-10/li-jian.pptx
 [29]: presentations/april-10/jo-brianne-briones.pdf
 [30]: presentations/april-10/antony-nguyen.pptx
 [33]: presentations/april-10/demo-lifemapper.pptx
 [34]: presentations/april-10/demo-multi-cloud.pptx
+[38]: presentations/april-10/demo-lightweight-scheduler.pptx
 [35]: presentations/april-10/graple.pptx
+[39]: presentations/april-10/pragma-ent.pdf
 
 [25]: presentations/april-10/wg/resources-breakout.pptx
 [28]: presentations/april-10/wg/update-biosciences.pptx
