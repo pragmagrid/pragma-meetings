@@ -132,7 +132,7 @@ As soon as presentations slides become available they will be linked on this pag
 * 14:30-16:30	Breakout Sessions for Working Groups
     * Resources, Networking & Data 
 	  * [PRAGMA ENT][39] (pdf)
-    * Telescience/Remote Sensing/Geoscience
+    * [Telescience/Remote Sensing/Geoscience][42]
     * Biosciencess
     * Cyberlearning/Distance Education
 * 16:30-16:50	Poster Session / Coffee break
@@ -193,4 +193,5 @@ As soon as presentations slides become available they will be linked on this pag
 [25]: presentations/april-10/wg/resources-breakout.pptx
 [28]: presentations/april-10/wg/update-biosciences.pptx
 [32]: presentations/april-10/wg/update-cyberlearning.pptx
+[42]: presentations/april-10/wg/telescience-breakout.pptx
 
