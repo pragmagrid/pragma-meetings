@@ -3,15 +3,15 @@
 
 Prerequisites
 ==============
+This page lists the required software that needs to be donwloaded and
+installed on your laptop prior to the workshop. 
+
+`Back`_
 
 .. contents::
 
-This section lists the required software that needs to be donwloaded and
-installed on your laptop prior to the workshop. 
-
 Your laptop hardware
 ----------------------------
-
 Your laptop should meet the requirements outlined in the
 `Virtual Box End User Documeentation <https://www.virtualbox.org/wiki/End-user_documentation>`_.
 To run lifemapper images on your laptop the following requirements must be met:
@@ -21,7 +21,6 @@ To run lifemapper images on your laptop the following requirements must be met:
 
 VirtualBox
 --------------------
-
 Download an appropriate  (for your laptop) VirtualBox distribution 
 from `Official ORacle Virtual Box download site
 <https://www.virtualbox.org/wiki/Download_Old_Builds_4_3>`_.
@@ -39,7 +38,6 @@ on the same page for upgrading.
 
 Required images
 ----------------
-
 This section lists all the Virtual Machine images that need to be downloaded. 
 You will use them to run Lifemapper cluster on your laptop during the tutorial. 
 Please complete the download prior to the workshop.
@@ -74,3 +72,9 @@ and programming challenge part of the tutorial only.
 
    These ISO images needed if you want to install them on a Basic Rocks 6.2
    cluster images. 
+
+`Back`_ 
+
+.. _Back : README.rst
+
+
