@@ -29,6 +29,14 @@ Build Lifemapper Biodiversity Infrastructure in Virtual Box.
 ------------------------------------------------------------
 This section list steps we will do as a setup during the workshop.
 
+#.  Start VirtualBox (as you normally would start an application on your laptop)
+
+   #. Verify Extensions are installed.
+
+      Open `VirtualBox -> Preferences` and click on `Extensions` tab.
+	  You should see a opo-up window like this: 
+	  .. figure :: images/pref-extensions.png
+
 #. Import 2 virtual images into Virtual Box
 
 #. Setup NAT network
@@ -57,12 +65,12 @@ This section list steps we will do as a setup during the workshop.
 
    #. Verify that shared directories are visible: :: 
       
-           # ls /media/
+           # ls /media
 
-      There should be `sf_data1` mounted under /media for a directory
-	  that was specified in `Shared Folders` settings with name "data1".
+      There should be `sf_data1` listed under /media for a directory
+      that was specified in `Shared Folders` settings with name `data1`.
 
-	  Please note the path of shared directory must work the same on a compute node.
+      Please note the path of shared directory must work the same on a compute node.
 
    #. Verify that you are connecte4d to a network: ::
 
