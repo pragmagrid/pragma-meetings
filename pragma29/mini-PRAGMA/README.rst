@@ -22,15 +22,15 @@ installed on your laptop prior to the workshop.
 
    Your laptop should meet the requirements outlined in the
    `Virtual Box End User Documeentation <https://www.virtualbox.org/wiki/End-user_documentation>`_ 
-
    In addition, to run lifemapper images on your laptop the following requirements must be met:
 
-   + **memory** - minimum 8Gb of memory. 
-   + **hard disk space**  - approximately 20Gb free for downloading the images and
+   + minimum 8Gb of memory. 
+   + approximately 20Gb free disk space for downloading the images and
      creating local Virtual Box images files.
 
-#. Download and install Virtual Box
-   Download from `Official ORacle Virtual Box download site
+#. **Virtual Box**
+
+   Download Virtual Box from `Official ORacle Virtual Box download site
    <https://www.virtualbox.org/wiki/Download_Old_Builds_4_3>`_  an appropriate 
    image for your laptop. You will need to install  
 
@@ -38,14 +38,14 @@ installed on your laptop prior to the workshop.
    + VirtualBox Extension Pack for version 4.3.30
 
    After dowonload verify the checksums and follow the
-   installation instructions in  `User Manual <https://www.virtualbox.org/wiki/Downloads>`_ 
+   installation instructions  for your platform in `User Manual <https://www.virtualbox.org/wiki/Downloads>`_ 
    section of the downloads page or on the `Virtual Box wiki page
    <https://www.virtualbox.org/manual/ch01.html#intro-installing>`_. 
 
    If you have a previous version of VirtualBox please follow the instructions
    on the same page for upgrading.
 
-#. Required images
+#. **Required images**
 
    This section lists all the Virtual Machine images that need to be downloaded. 
    You will use them to run Lifemapper cluster on your laptop during the tutorial. 
@@ -60,7 +60,8 @@ installed on your laptop prior to the workshop.
 
    #. `Test data set <link available soon>`_ for using with the tutorial
 
-#. Optional downloads
+#. **Optional downloads**
+
    This section lists optional images and software. They are for your information 
    and programming challenge part of the tutorial only.
 
