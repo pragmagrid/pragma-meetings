@@ -29,13 +29,14 @@ Build Lifemapper Biodiversity Infrastructure in Virtual Box.
 ------------------------------------------------------------
 This section list steps we will do as a setup during the workshop.
 
-#.  Start VirtualBox (as you normally would start an application on your laptop)
+#. Start VirtualBox (as you normally would start an application on your laptop)
 
    #. Verify Extensions are installed.
 
       Open `VirtualBox -> Preferences` and click on `Extensions` tab.
-	  You should see a opo-up window like this: 
-	  .. figure :: images/pref-extensions.png
+      You should see a popup window like this: 
+
+      .. figure:: images/pref-extensions.png
 
 #. Import 2 virtual images into Virtual Box
 
