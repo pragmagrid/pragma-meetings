@@ -38,11 +38,17 @@ This section list steps we will do as a setup during the workshop.
 
       .. image:: images/pref-extensions.png
 
-#. Import 2 virtual images into Virtual Box
+   #. Setup NAT and Host-only networks 
 
-#. Setup NAT network
+      Open `VirtualBox -> Preferences` and click on `Network` tab.
+      Setup 2 networks per information below: 
+
+      .. image:: images/pref-network-nat.png
+      .. image:: images/pref-network-host.png
 
 #. Create shared folders on your laptop
+
+#. Import 2 virtual images into Virtual Box
 
 #. Run frontend 
    Start an image `lm620` from Virtual Box GUI or via a command line ::
