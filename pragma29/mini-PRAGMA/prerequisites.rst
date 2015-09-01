@@ -19,7 +19,7 @@ To run lifemapper images on your laptop the following requirements must be met:
 + minimum 8Gb of memory. 
 + approximately 20Gb free disk space (for virytual images)
 
-VirtualBox
+Install VirtualBox
 --------------------
 Download an appropriate  (for your laptop) VirtualBox distribution 
 from `Official ORacle Virtual Box download site
@@ -29,8 +29,8 @@ You will need to install
 + VirtualBox version 4.3.30
 + VirtualBox Extension Pack for version 4.3.30
 
-After dowonload verify the checksums and follow the
-installation instructions for your platform in `User Manual <https://www.virtualbox.org/wiki/Downloads>`_ 
+After dowonload verify the checksums (folow th link on the download page) and
+follow the installation instructions for your platform in `User Manual <https://www.virtualbox.org/wiki/Downloads>`_ 
 section or on the `VirtualBox wiki <https://www.virtualbox.org/manual/ch01.html#intro-installing>`_. 
 
 If you have a previous version of VirtualBox please follow the instructions
