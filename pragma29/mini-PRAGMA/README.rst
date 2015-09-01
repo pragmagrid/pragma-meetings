@@ -9,74 +9,61 @@ International Workshop on Building Collaboration in Biodiversity Informatics
 Introduction
 --------------
 
-This page is for people who will be attending Lifemapper-related part of the tutorial.
-Please follow the information in **Prerequisites** section to complete the
-installation of the requitred software and images. 
+This page is for participants who will be attending Lifemapper-related part of the tutorial.
 
 Prerequisites
 ---------------
-This section lists the required software that needs to be donwloaded and
-installed on your laptop prior to the workshop. 
+This section lists the required steps that need to be done prior to the workshop:
 
-#. **Your laptop Hardware**
++ Download and install ``Virtual Box``
++ Download ``Lifemapper cluster images`` for Virtual Box
++ Download tutorial sample data 
 
-   Your laptop should meet the requirements outlined in the
-   `Virtual Box End User Documeentation <https://www.virtualbox.org/wiki/End-user_documentation>`_ 
-   In addition, to run lifemapper images on your laptop the following requirements must be met:
+Please follow the instructions in `Prerequisites`_ section to complete the
+installation of the requitred software and images. 
 
-   + minimum 8Gb of memory. 
-   + approximately 20Gb free disk space for downloading the images and
-     creating local Virtual Box images files.
+.. _Prerequisites : prerequisites.rst
 
-#. **Virtual Box**
 
-   Download Virtual Box from `Official ORacle Virtual Box download site
-   <https://www.virtualbox.org/wiki/Download_Old_Builds_4_3>`_  an appropriate 
-   image for your laptop. You will need to install  
+Build Lifemapper Biodiversity Infrastructure in Virtual Box.
+------------------------------------------------------------
+This section list steps we will do as a setup during the workshop.
 
-   + VirtualBox version 4.3.30
-   + VirtualBox Extension Pack for version 4.3.30
+#. Import 2 virtual images into Virtual Box
 
-   After dowonload verify the checksums and follow the
-   installation instructions  for your platform in `User Manual <https://www.virtualbox.org/wiki/Downloads>`_ 
-   section of the downloads page or on the `Virtual Box wiki page
-   <https://www.virtualbox.org/manual/ch01.html#intro-installing>`_. 
+#. Setup NAT network
 
-   If you have a previous version of VirtualBox please follow the instructions
-   on the same page for upgrading.
+#. Create shared folders on your laptop
 
-#. **Required images**
+#. Run frontend 
+   Start an image `lm620` from Virtual Box GUI or via a command line ::
 
-   This section lists all the Virtual Machine images that need to be downloaded. 
-   You will use them to run Lifemapper cluster on your laptop during the tutorial. 
-   Please complete the download prior to the workshop.
+       % vboxmanager startvm lm620
 
-   #. Lifemapper Rocks 6.2 cluster images 
+#. Run compute node
+   Start an image `lm620-compute` form Virtual Box GUI or via a command line::
 
-      + `lifemapper.ova <link available soon>`_ - lifemapper cluster frontend (4.6Gb)
-      + `lifemapper-compute.ova  <link available soon>`_ lifemapper cluster compute node (2.2Gb)
+       % vboxmanager startvm lm620-compute
+   
+#. Login on a frontend
 
-      These images have LMserver and LMcompute ISOs installed  and configured.
+   User: root
+   Password: ****
 
-   #. `Test data set <link available soon>`_ for using with the tutorial
+   #. Verify that you can reach compute node via a command: ::
 
-#. **Optional downloads**
+           # ssh compute-0-0 
+           # exit 
 
-   This section lists optional images and software. They are for your information 
-   and programming challenge part of the tutorial only.
+   #. Verify that shared directories are visible: :: 
+      
+           # ls /media/
 
-   #. Basic Rocks 6.2 cluster images 
+      There should be `sf_data1` mounted under /media for a directory
+	  that was specified in `Shared Folders` settings with name "data1".
 
-      + `rocks620.ova <link available soon>`_ - basic rocks cluster frontend  (4.6Gb)
-      + `rocks620-compute.ova  <link available soon>`_ basic rocks cluster compute node (2.2Gb)
+	  Please note the path of shared directory must work the same on a compute node.
 
-      You need these images only if you plan to install Lifemapper ISOs on
-      these images
+   #. Verify that you are connecte4d to a network: ::
 
-   #. LMserver and LMCompute rocks rolls (ISO images) 
-
-      + `lifemapper-server <link available soon>`_ - lifemapper server rocks roll 
-      + `lifemapper-compute <link available soon>`_ lifemapper compute rocks roll
-
-      These ISO images needed if you want to install them on a Basic Rocks 6.2
-      cluster images. 
+           # ping 8.8.8.8
