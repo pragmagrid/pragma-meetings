@@ -10,27 +10,24 @@ Introduction
 --------------
 
 This page is for people who will be attending Lifemapper-related part of the tutorial.
-Please follow the information in *Prerequisites* section to complete the
+Please follow the information in **Prerequisites** section to complete the
 installation of the requitred software and images. 
 
 Prerequisites
 ---------------
-Please complete this section prior to the workshop.
+This section lists the required software that needs to be donwloaded and
+installed on your laptop prior to the workshop. 
 
-#. Your laptop Hardware
+#. **Your laptop Hardware**
 
    Your laptop should meet the requirements outlined in the
    `Virtual Box End User Documeentation <https://www.virtualbox.org/wiki/End-user_documentation>`_ 
 
    In addition, to run lifemapper images on your laptop the following requirements must be met:
 
-   + *memory* - minimum 8Gb of memory. 
-   + *hard disk space*  - approximately 20Gb free for downloading the images and
+   + **memory** - minimum 8Gb of memory. 
+   + **hard disk space**  - approximately 20Gb free for downloading the images and
      creating local Virtual Box images files.
-
-
-This section lists the required software that needs to be donwloaded and
-installed on your laptop prior to the workshop. 
 
 #. Download and install Virtual Box
    Download from `Official ORacle Virtual Box download site
@@ -48,38 +45,37 @@ installed on your laptop prior to the workshop.
    If you have a previous version of VirtualBox please follow the instructions
    on the same page for upgrading.
 
-Required downloads
-==========================
-This section lists all the Virtual Machine images that need to be downloaded. 
-You will use them to run Lifemapper cluster on your laptop during the tutorial. 
-Please complete the download prior to the workshop.
+#. Required images
 
-#. Lifemapper Rocks 6.2 cluster images 
+   This section lists all the Virtual Machine images that need to be downloaded. 
+   You will use them to run Lifemapper cluster on your laptop during the tutorial. 
+   Please complete the download prior to the workshop.
 
-   + `lifemapper.ova <link available soon>`_ - lifemapper cluster frontend (4.6Gb)
-   + `lifemapper-compute.ova  <link available soon>`_ lifemapper cluster compute node (2.2Gb)
+   #. Lifemapper Rocks 6.2 cluster images 
 
-   These images have LMserver and LMcompute ISOs installed  and configured.
+      + `lifemapper.ova <link available soon>`_ - lifemapper cluster frontend (4.6Gb)
+      + `lifemapper-compute.ova  <link available soon>`_ lifemapper cluster compute node (2.2Gb)
 
-#. `Test data set <link available soon>`_ for using with the tutorial
+      These images have LMserver and LMcompute ISOs installed  and configured.
 
-Optional downloads
-=====================
-This section lists optional images and software. They are for your information 
-and programming challenge part of the tutorial only.
+   #. `Test data set <link available soon>`_ for using with the tutorial
 
-#. Basic Rocks 6.2 cluster images 
+#. Optional downloads
+   This section lists optional images and software. They are for your information 
+   and programming challenge part of the tutorial only.
 
-   + `rocks620.ova <link available soon>`_ - basic rocks cluster frontend  (4.6Gb)
-   + `rocks620-compute.ova  <link available soon>`_ basic rocks cluster compute node (2.2Gb)
+   #. Basic Rocks 6.2 cluster images 
 
-   You need these images only if you plan to install Lifemapper ISOs on
-   these images
+      + `rocks620.ova <link available soon>`_ - basic rocks cluster frontend  (4.6Gb)
+      + `rocks620-compute.ova  <link available soon>`_ basic rocks cluster compute node (2.2Gb)
 
-#. LMserver and LMCompute rocks rolls (ISO images) 
+      You need these images only if you plan to install Lifemapper ISOs on
+      these images
 
-   + `lifemapper-server <link available soon>`_ - lifemapper server rocks roll 
-   + `lifemapper-compute <link available soon>`_ lifemapper compute rocks roll
+   #. LMserver and LMCompute rocks rolls (ISO images) 
 
-   These ISO images needed if you want to install them on a Basic Rocks 6.2
-   cluster images. 
+      + `lifemapper-server <link available soon>`_ - lifemapper server rocks roll 
+      + `lifemapper-compute <link available soon>`_ lifemapper compute rocks roll
+
+      These ISO images needed if you want to install them on a Basic Rocks 6.2
+      cluster images. 
