@@ -37,7 +37,6 @@ This section list steps we will do as a setup during the workshop.
       You should see a popup window like this: 
 
       .. image:: images/pref-extensions.png
-         :scale: 50 %
 
 #. Import 2 virtual images into Virtual Box
 
