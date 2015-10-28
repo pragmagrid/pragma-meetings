@@ -2,7 +2,7 @@
 
 Pragma 29 Presentations
 =======================
-.. contents:
+.. contents::
 
 Info
 -----
@@ -11,26 +11,23 @@ All available presentations have been converted to PDF format.
 October 7
 ----------
 
-Student Session Lightning Talks
----------------------------------
+.. csv-table:: Student Session Lightning Talks
+   :header: "Slot", "Presenter", "Title"
+   :widths: 10, 20, 70
 
-====== ======================= =======
-  Slot        Presenter         Title     
------- ----------------------- -------
-  S01   Hiroki Ohtsuji          |1|_      
-  S02   Irfan Fadhila           |2|_ 
-  S03   Arya Adhyaksa Waskita   |3|_
-  S04   Rizki Putra             |4|_
-  S05   Soetrisno Cahya         |5|_
-  S06   Andika                  |6|_
-  S07   Takuya Yamada           |7|_
-  S08   Khureltulga Dashdavaa   |8|_
-  S09   Azminah Mamur           |9|_
-  S10   Linda Erlina            |10|_
-  S11   Denny Hermawan          |11|_
-  S12   Chawanat Nakasan        |12|_
-  S13   Arata Endo              |13|
-====== ======================= =======
+   "S01",  "Hiroki Ohtsuji",        |1|_      
+   "S02",  "Irfan Fadhila",         |2|_ 
+   "S03",  "Arya Adhyaksa Waskita", |3|_
+   "S04",  "Rizki Putra",           |4|_
+   "S05",  "Soetrisno Cahya",       |5|_
+   "S06",  "Andika",                |6|_
+   "S07",  "Takuya Yamada",         |7|_
+   "S08",  "Khureltulga Dashdavaa", |8|_
+   "S09",  "Azminah Mamur",         |9|_
+   "S10",  "Linda Erlina",          |10|_
+   "S11",  "Denny Hermawan",        |11|_
+   "S12",  "Chawanat Nakasan",      |12|_
+   "S13",  "Arata Endo",            |13|
 
 October 8
 -----------
