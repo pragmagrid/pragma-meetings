@@ -31,7 +31,7 @@ October 7
 
 October 8
 -----------
-.. csv-table:: **Schedule**
+.. csv-table:: **Agenda**
    :header: "Time",  "Topics", "Chair"
  
    "", "Plenary", ""
@@ -61,6 +61,56 @@ October 8
 
 October 9
 -----------
+.. csv-table:: **Agenda**
+   :header: "Time",  "Topics", "Chair"
+
+   "09.00-09.10", "Opening remarks", "Heru  Suhartanto (Universitas Indonesia)"
+   "09.10-09.35", "Invited speaker 2 : Dr. Rifki Sadikin,  Bioinformatics/High Performance
+             Computing Lab, Indonesia Institute of Science (LIPI).", ""
+   "09.35-10.00", "Invited speaker 3: Dr. dr. Andri Lubis, Head of Research Department,  RSPUN
+             (National General Hospital), Dr. Cipto Mangunkusumo,  **Challenges and future
+             outlooks of ICT related research at Indonesia Hospitals.**", ""
+   "10.30-12.00", "**Breakout session for working groups:**
+                 Resources 27_ (120 people)
+
+                 Bioscience, Biodiversity and Lake Ecology  (40 people)
+
+                 Telescience 30_ (15 people)
+
+                 Cyberlearning (15 people)", "WG Chairs"
+   "12.00-14.00", "PRAGMA Steering Committee meeting", "Peter Arzberger"
+   "14.00-16.30", "**Demo/presentation session:**
+                 Haga Jason |17|_ (demo)
+
+                 Haga Jason |15|_ (demo)
+
+                 Wijaya Sony Hartono |22|_ (Oral Presentation)
+
+                 Syahriar Arry Yanuar |19|_ (Oral Presentation)
+
+                 Smallen Shava |14|_ (demo)
+
+                 Figueiredo Renato |16|_ (demo)
+
+                 Figueiredo Renato |18|_ (demo)", "Demo Chairs"
+   "16.30-16.50", "Poster session", ""
+   "16.50-17.50", "**Working group updates:**
+                 Resources 28_
+
+                 Bioscience, Biodiversity and Lake Ecology  25_
+
+                 Telescience 25_
+
+                 Cyberlearning  26_
+
+                 Students 29_", "WG Chairs"
+
+.. _25: wg-update/bioscience-update.pdf
+.. _26: wg-update/cyberlearning-update.pdf
+.. _27: wg-update/resource-breakout.pdf
+.. _28: wg-update/resources-update.pdf
+.. _29: wg-update/students-update.pdf
+.. _30: wg-update/telescience-breakout.pdf
 
 .. |1| replace:: Breaking the Trade-off between Performance and Reliability in Network Storage System
 .. _1: student-session/network-storage.pdf
@@ -91,4 +141,26 @@ October 9
 .. _12: student-session/openflow-controller.pdf 
 .. |13| replace:: An implementation of SAGE Bridge for sharing visualized
    contents on multiple tiled display wall systems
+
+.. |14| replace:: Lightweight Scheduling for the PRAGMA Cloud Testbed
+.. _14: demo/cloud-scheduler.pdf
+.. |15| replace:: Development of a Multi-site Disaster Management Tool
+.. _15: demo/disaster-application.pdf
+.. |16| replace:: PRAGMA Lake Expedition Cyberinfrastructure
+.. _16: demo/graple.pdf
+.. |17| replace:: Hydra: A Browser-based Tool for Virtual Screening Data
+.. _17: demo/hydra.pdf
+.. |18| replace:: IPOP Overlay Networks for Data Sharing and Virtual Clusters in PRAGMA
+.. _18: demo/ipop.pdf
+.. |19| replace:: Molecular Dynamics Analysis of Palmitic Acid in Deep Eutectic Solvents of Betaine and Glycerol
+.. _19: presentations/arry-yanuar.pdf
+
+.. _20: presentations/centra.pdf
+.. _21: presentations/cloud-scheduler-ICDS15.pdf
+
+.. |22| replace:: Utilization of KNApSAcK Family Databases for Developing 
+.. _22: presentations/knapsack.pdf
+
+.. _23: presentations/pragma-ent-ICDS15.pdf
+.. _24: presentations/PRAGMA-30-welcome.pdf
 
