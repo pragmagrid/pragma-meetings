@@ -11,7 +11,7 @@ All available presentations have been converted to PDF format.
 October 7
 ----------
 
-.. csv-table:: Student Session Lightning Talks
+.. csv-table:: **Student Session Lightning Talks**
    :header: "Slot", "Presenter", "Title"
    :widths: 10, 20, 70
 
@@ -31,6 +31,16 @@ October 7
 
 October 8
 -----------
+.. csv-table:: **Schedule**
+   :header: "No", "Time",  "Topics", "Chair"
+ 
+   "", "", "Plenary", ""
+   "2.2", "09.00-09.30", "Welcome remark and introduction:<br/>
+                         Opening speech by General Chair: Heru Suhartanto
+                         Opening speech by PRAGMA Chair: Peter Arzberger
+                         Opening speech by Dean of Faculty of Computer Science Universitas Indonesia: Mirna Adriani, Ph.D
+                         Opening speech by Rector of Universitas Indonesia: Prof. Muhammad Anis",
+                         "Heru  Suhartanto (Universitas Indonesia)"
 
 October 9
 -----------
