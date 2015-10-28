@@ -36,29 +36,26 @@ October 8
  
    "", "Plenary", ""
    "09.00-09.30", "**Welcome remark and introduction:**
-
-                  Opening speech by General Chair: Heru Suhartanto
-
-                  Opening speech by PRAGMA Chair: Peter Arzberger
-
-                  Opening speech by Dean of Faculty of Computer Science Universitas Indonesia: Mirna Adriani, Ph.D
-
-                  Opening speech by Rector of Universitas Indonesia: Prof. Muhammad Anis", "Heru  Suhartanto (Universitas Indonesia)"
+                 Opening speech by General Chair: Heru Suhartanto
+                 
+                 Opening speech by PRAGMA Chair: Peter Arzberger
+                 
+                 Opening speech by Dean of Faculty of Computer Science Universitas Indonesia: Mirna Adriani, Ph.D
+                 
+                 Opening speech by Rector of Universitas Indonesia: Prof. Muhammad Anis", "Heru  Suhartanto (Universitas Indonesia)"
    "09.30-09.50", "Update since PRAGMA 28", "Peter Arzberger (University of California San Diego, USA)"
    "09.50-10.40", "Invited Speaker 1: Dr. Eng Wisnu Jatmiko (Faculty of Computer Science, 
-                  Universitas Indonesia) and dr. Budi Wiweko, MD, OG (REI), Ph.D (Faculty of Medicine, 
-				  Universitas Indonesia) . **The current Tele-Health Research and Development at UI**, "Heru Suhartanto (Universitas Indonesia)"
+   Universitas Indonesia) and dr. Budi Wiweko, MD, OG (REI), Ph.D (Faculty of Medicine, 
+   Universitas Indonesia) . **The current Tele-Health Research and Development at UI**, "Heru Suhartanto (Universitas Indonesia)"
    "11.10-12.30", "**Working Group updates**", "WG Chairs"
-   "14.00-15.30", "**Working Groups breakout Session**
-
-                  Resources WG (120 people)
-
-                  Bioscience, Biodiversity, Lake Ecology (60 people)
-
-                  Telescience (40  people)
-
-                  Cyberlearning (40 people)", "WG Chairs"
- 
+   "14.00-15.30", "**Working Groups breakout Session:**
+                 Resources WG (120 people)
+                 
+                 Bioscience, Biodiversity, Lake Ecology (60 people)
+                 
+                 Telescience (40  people)
+                 
+                 Cyberlearning (40 people)", "WG Chairs"
    "16.00-17.00", "**Student best Lightning talks**", "Student Chairs"
    "17.00-18.00", "**ICDS best papers  talks**", "Beth Plale (Indiana University, USA), Miao Chen (Indiana University, USA)"
 
