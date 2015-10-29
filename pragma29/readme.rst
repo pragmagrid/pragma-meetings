@@ -107,13 +107,14 @@ October 9
                  `Cyberlearning  <wg-update/cyberlearning-update.pdf>`_
 
                  `Students <wg-update/students-update.pdf>`_, "WG Chairs"
-   "17.50-18.10", "Summary of Executive Committee meeting (Peter Arzberger)
+   "17.50-18.10", "
+   Summary of Executive Committee meeting (Peter Arzberger)
+                 
+   |20|_  Jose Fortes
+   
+   Wrap UP (PRAGMA 29 General Chair)
 
-		 |20|_  Jose Fortes
-
-                 Wrap UP (PRAGMA 29 General Chair)
-
-                 |24|_ (Jelina Tetangco - Advanced Science and Technology Institute, PH)", ""
+   |24|_ (Jelina Tetangco - Advanced Science and Technology Institute, PH)", ""
 
 .. |1| replace:: Breaking the Trade-off between Performance and Reliability in Network Storage System
 .. _1: student-session/network-storage.pdf
@@ -156,7 +157,7 @@ October 9
 .. _18: demo/ipop.pdf
 .. |19| replace:: Molecular Dynamics Analysis of Palmitic Acid in Deep Eutectic Solvents of Betaine and Glycerol
 .. _19: presentations/arry-yanuar.pdf
-.. |20| replace:: US - East Asia Collaborations to Enable Transnation Cyberinfrastructure Applications (CENTRA)
+.. |20| replace:: US-East Asia Collaborations to Enable Transnation Cyberinfrastructure Applications (CENTRA)
 .. _20: presentations/centra.pdf
 .. |21| replace:: Lightweight Scheduling for the PRAGMA Cloud Testbed
 .. _21: presentations/cloud-scheduler-ICDS15.pdf
