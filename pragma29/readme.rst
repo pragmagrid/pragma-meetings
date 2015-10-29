@@ -68,11 +68,11 @@ October 9
    :header: "Time",  "Topics", "Chair"
 
    "09.00-09.10", "Opening remarks", "Heru  Suhartanto (Universitas Indonesia)"
-   "09.10-09.35", "Invited speaker 2 : Dr. Rifki Sadikin,  Bioinformatics/High Performance
-             Computing Lab, Indonesia Institute of Science (LIPI).", ""
+   "09.10-09.35", "Invited speaker 2: Dr. Rifki Sadikin,  Bioinformatics/High Performance
+   Computing Lab, Indonesia Institute of Science (LIPI).", ""
    "09.35-10.00", "Invited speaker 3: Dr. dr. Andri Lubis, Head of Research Department,  RSPUN
-             (National General Hospital), Dr. Cipto Mangunkusumo,  **Challenges and future
-             outlooks of ICT related research at Indonesia Hospitals.**", ""
+   (National General Hospital), Dr. Cipto Mangunkusumo,  **Challenges and future
+   outlooks of ICT related research at Indonesia Hospitals.**", ""
    "10.30-12.00", "**Breakout session for working groups:**
                  `Resources <wg-update/resource-breakout.pdf>`_ (120 people)
 
@@ -109,12 +109,11 @@ October 9
                  `Students <wg-update/students-update.pdf>`_, "WG Chairs"
    "17.50-18.10", "Summary of Executive Committee meeting (Peter Arzberger)
 
-				 |20|_  Jose Fortes
+		 |20|_  Jose Fortes
 
                  Wrap UP (PRAGMA 29 General Chair)
 
-                 |24|_ (Jelina Tetangco - Advanced Science and Technology Institute, PH), ""
-
+                 |24|_ (Jelina Tetangco - Advanced Science and Technology Institute, PH)", ""
 
 .. |1| replace:: Breaking the Trade-off between Performance and Reliability in Network Storage System
 .. _1: student-session/network-storage.pdf
