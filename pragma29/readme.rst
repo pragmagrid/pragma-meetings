@@ -49,7 +49,7 @@ October 8
    Universitas Indonesia) . **The current Tele-Health Research and Development at UI**, "Heru Suhartanto (Universitas Indonesia)"
    "11.10-12.30", "**Working Group updates**", "WG Chairs"
    "14.00-15.30", "**Working Groups breakout Session:**
-                 Resources WG (120 people)
+                 Resources WG |26|_ (120 people)
                  
                  Bioscience, Biodiversity, Lake Ecology (60 people)
                  
@@ -57,7 +57,12 @@ October 8
                  
                  Cyberlearning (40 people)", "WG Chairs"
    "16.00-17.00", "**Student best Lightning talks**", "Student Chairs"
-   "17.00-18.00", "**ICDS best papers  talks**", "Beth Plale (Indiana University, USA), Miao Chen (Indiana University, USA)"
+   "17.00-18.00", "**ICDS best papers  talks**
+                 |21|_
+
+                 |23|_
+
+                 |25|_", "Beth Plale (Indiana University, USA), Miao Chen (Indiana University, USA)"
 
 October 9
 -----------
@@ -75,7 +80,7 @@ October 9
 
                  Bioscience, Biodiversity and Lake Ecology  (40 people)
 
-                 `Telescience wg-update/telescience-breakout.pdf`_ (15 people)
+                 `Telescience <wg-update/telescience-breakout.pdf>`_ (15 people)
 
                  Cyberlearning (15 people)", "WG Chairs"
    "12.00-14.00", "PRAGMA Steering Committee meeting", "Peter Arzberger"
@@ -103,7 +108,14 @@ October 9
 
                  `Cyberlearning  <wg-update/cyberlearning-update.pdf>`_
 
-                 `Students <wg-update/students-update.pdf>`_ "WG Chairs"
+                 `Students <wg-update/students-update.pdf>`_ WG Chairs"
+   "17.50-18.10", "Summary of Executive Committee meeting (Peter Arzberger)
+
+				 |20|_  Jose Fortes
+
+                 Wrap UP (PRAGMA 29 General Chair)
+
+                 |24|_ (Jelina Tetangco - Advanced Science and Technology Institute, PH)
 
 
 .. |1| replace:: Breaking the Trade-off between Performance and Reliability in Network Storage System
@@ -135,7 +147,6 @@ October 9
 .. _12: student-session/openflow-controller.pdf 
 .. |13| replace:: An implementation of SAGE Bridge for sharing visualized
    contents on multiple tiled display wall systems
-
 .. |14| replace:: Lightweight Scheduling for the PRAGMA Cloud Testbed
 .. _14: demo/cloud-scheduler.pdf
 .. |15| replace:: Development of a Multi-site Disaster Management Tool
@@ -148,13 +159,17 @@ October 9
 .. _18: demo/ipop.pdf
 .. |19| replace:: Molecular Dynamics Analysis of Palmitic Acid in Deep Eutectic Solvents of Betaine and Glycerol
 .. _19: presentations/arry-yanuar.pdf
-
+.. |20| replace:: US - East Asia Collaborations to Enable Transnation Cyberinfrastructure Applications (CENTRA)
 .. _20: presentations/centra.pdf
+.. |21| replace:: Lightweight Scheduling for the PRAGMA Cloud Testbed
 .. _21: presentations/cloud-scheduler-ICDS15.pdf
-
 .. |22| replace:: Utilization of KNApSAcK Family Databases for Developing 
 .. _22: presentations/knapsack.pdf
-
+.. |23| replace:: PRAGMA-ENT: Exposing SDN Concepts to Domain Scientists in the Pacific Rim
 .. _23: presentations/pragma-ent-ICDS15.pdf
+.. |24| replace:: Welcome by PRAGMA 30 organizers 
 .. _24: presentations/PRAGMA-30-welcome.pdf
-
+.. |25| replace:: Virtualizing LIfemapper Software Infrastructure for Biodiversity Expedition
+.. _25: presentations/lifemapper-ICDS2015.pdf
+.. |26| replace:: PRAGMA ENT report 
+.. _26: presentations/ent-report.pdf
