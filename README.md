@@ -1,7 +1,5 @@
-pragma-meetings
-===============
-
-Pragma Meetings Presentations
+PRAGMA meetings archive
+=======================
 
 Meetings                                         |   Links 
 -------------------------------------------------|---------
