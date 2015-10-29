@@ -5,6 +5,7 @@ Pragma Meetings Presentations
 
 Meetings                                         |   Links 
 -------------------------------------------------|---------
+**Pragma 29** October 7-9, 2015 Depok, Indonesia | [presentations][11] - [website][12]
 **Pragma 28** April 8-10, 2015 Osaka & Nara, Japan | [presentations][9] - [website][10]
 **Pragma 27** October 15-17, 2014, Bloomington, Indiana USA | [presentations][7] - [website][8]
 **Pragma 26** April 9-11, 2014, Tainan, Taiwan   | [presentations][1] - [website][2]
@@ -21,3 +22,5 @@ Meetings                                         |   Links
 [8]: http://pragma27.pragma-grid.net/dct/page/1
 [9]: pragma28/readme.md
 [10]: http://pragma28.pragma-grid.net/dct/page/1
+[11]: pragma29/readme.rst
+[12]: http://pragma29.pragma-grid.net/dct/page/1
