@@ -55,7 +55,7 @@ October 8
                  
                  Cyberlearning (40 people)", "WG Chairs"
    "16.00-17.00", "**Student best Lightning talks**", "Student Chairs"
-   "17.00-18.00", "**ICDS best papers  talks**
+   "17.00-18.00", "**ICDS best papers  talks** 
                  |21|_
 
                  |23|_
@@ -106,14 +106,14 @@ October 9
 
                  `Cyberlearning  <wg-update/cyberlearning-update.pdf>`_
 
-                 `Students <wg-update/students-update.pdf>`_ WG Chairs"
+                 `Students <wg-update/students-update.pdf>`_, "WG Chairs"
    "17.50-18.10", "Summary of Executive Committee meeting (Peter Arzberger)
 
 				 |20|_  Jose Fortes
 
                  Wrap UP (PRAGMA 29 General Chair)
 
-                 |24|_ (Jelina Tetangco - Advanced Science and Technology Institute, PH)
+                 |24|_ (Jelina Tetangco - Advanced Science and Technology Institute, PH), ""
 
 
 .. |1| replace:: Breaking the Trade-off between Performance and Reliability in Network Storage System
