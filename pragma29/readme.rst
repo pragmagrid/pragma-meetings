@@ -76,11 +76,11 @@ October 9
    outlooks of ICT related research at Indonesia Hospitals.**", ""
    "10.30-12.00", "**Breakout session for working groups:**
    
-   `Resources <wg-update/resource-breakout.pdf>`_ (120 people)
+   `Resources <presentations/wg-update/resource-breakout.pdf>`_ (120 people)
 
    Bioscience, Biodiversity and Lake Ecology  (40 people)
 
-   `Telescience <wg-update/telescience-breakout.pdf>`_ (15 people)
+   `Telescience <presentations/wg-update/telescience-breakout.pdf>`_ (15 people)
 
    Cyberlearning (15 people)", "WG Chairs"
    "12.00-14.00", "PRAGMA Steering Committee meeting", "Peter Arzberger"
@@ -102,15 +102,15 @@ October 9
    "16.30-16.50", "Poster session", ""
    "16.50-17.50", "**Working group updates:**
 
-   `Resources <wg-update/resources-update.pdf>`_
+   `Resources <presentations/wg-update/resources-update.pdf>`_
 
-   `Bioscience, Biodiversity and Lake Ecology <wg-update/bioscience-update.pdf>`_
+   `Bioscience, Biodiversity and Lake Ecology <presentations/wg-update/bioscience-update.pdf>`_
 
    Telescience 
 
-   `Cyberlearning  <wg-update/cyberlearning-update.pdf>`_
+   `Cyberlearning  <presentations/wg-update/cyberlearning-update.pdf>`_
 
-   `Students <wg-update/students-update.pdf>`_", "WG Chairs"
+   `Students <presentations/wg-update/students-update.pdf>`_", "WG Chairs"
    "17.50-18.10", "Summary of Executive Committee meeting (Peter Arzberger)
                  
    |20|_  Jose Fortes
@@ -120,44 +120,44 @@ October 9
    |24|_ Jelina Tetangco - Advanced Science and Technology Institute, PH", ""
 
 .. |1| replace:: Breaking the Trade-off between Performance and Reliability in Network Storage System
-.. _1: student-session/network-storage.pdf
+.. _1: presentations/student-session/network-storage.pdf
 .. |2| replace:: Performance Analysis of Virtual Machine and Container for Cloud Based High Performance Computing Platform
-.. _2: student-session/vm-performance-analysis.pdf
+.. _2: presentations/student-session/vm-performance-analysis.pdf
 .. |3| replace:: Distributed scheme of dynamic entropy based method for early detection of anomalous states in sensor network
-.. _3: student-session/sensor-network.pdf 
+.. _3: presentations/student-session/sensor-network.pdf 
 .. |4| replace:: Autodock Aplication Integration into SCLOUD Web Interface
-.. _4: student-session/autodock-integration-SCLOUD.pdf
+.. _4: presentations/student-session/autodock-integration-SCLOUD.pdf
 .. |5| replace:: Adjacency Hyperedges Matrix, A Hypergraph Model for Constructing Composite Object Relationship
-.. _5: student-session/hypergraph-model.pdf 
+.. _5: presentations/student-session/hypergraph-model.pdf 
 .. |6| replace:: Virtual Screening and Moleculer Docking of Indonesian Herbal
    Database Based Pharmacopore Approached for Identification SIRT1 Inhibitor as Potential Ligand Active
-.. _6: student-session/virtual-screening-SIRT.pdf 
+.. _6: presentations/student-session/virtual-screening-SIRT.pdf 
 .. |7| replace:: Proposal of indoor evacuation system with smartphones
-.. _7: student-session/evacuation-system.pdf 
+.. _7: presentations/student-session/evacuation-system.pdf 
 .. |8| replace:: An MPI concept with efficient control of network functionality based on SDN
-.. _8: student-session/mpi-sdn.pdf 
+.. _8: presentations/student-session/mpi-sdn.pdf 
 .. |9| replace:: 3D Pharmacophore Virtual Screening of Indonesia's Medicinal Plants Database for SIRT1 Activator
-.. _9: student-session/3D-virtual-screening.pdf 
+.. _9: presentations/student-session/3D-virtual-screening.pdf 
 .. |10| replace:: Virtual Screening of Indonesian Herbal Database as an Active
    Ligand for HDAC4 and HDAC7 based on Pharmacophore Approached
-.. _10: student-session/virtual-screening-HDAC.pdf 
+.. _10: presentations/student-session/virtual-screening-HDAC.pdf 
 .. |11| replace:: Design and Analysis GPU Computing for Molecular Dynamics
    Simulations with AMBER Applications
-.. _11: student-session/gpu-md-simulations.pdf 
+.. _11: presentations/student-session/gpu-md-simulations.pdf 
 .. |12| replace:: Evaluation of Topology-based OpenFlow Controller for Multipath TCP on PRAGMA-ENT
-.. _12: student-session/openflow-controller.pdf 
+.. _12: presentations/student-session/openflow-controller.pdf 
 .. |13| replace:: An implementation of SAGE Bridge for sharing visualized
    contents on multiple tiled display wall systems
 .. |14| replace:: Lightweight Scheduling for the PRAGMA Cloud Testbed
-.. _14: demo/cloud-scheduler.pdf
+.. _14: presentations/demo/cloud-scheduler.pdf
 .. |15| replace:: Development of a Multi-site Disaster Management Tool
-.. _15: demo/disaster-application.pdf
+.. _15: presentations/demo/disaster-application.pdf
 .. |16| replace:: PRAGMA Lake Expedition Cyberinfrastructure
-.. _16: demo/graple.pdf
+.. _16: presentations/demo/graple.pdf
 .. |17| replace:: Hydra: A Browser-based Tool for Virtual Screening Data
-.. _17: demo/hydra.pdf
+.. _17: presentations/demo/hydra.pdf
 .. |18| replace:: IPOP Overlay Networks for Data Sharing and Virtual Clusters in PRAGMA
-.. _18: demo/ipop.pdf
+.. _18: presentations/demo/ipop.pdf
 .. |19| replace:: Molecular Dynamics Analysis of Palmitic Acid in Deep Eutectic Solvents of Betaine and Glycerol
 .. _19: presentations/arry-yanuar.pdf
 .. |20| replace:: US-East Asia Collaborations to Enable Transnation Cyberinfrastructure Applications (CENTRA)
