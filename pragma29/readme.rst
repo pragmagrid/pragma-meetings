@@ -71,11 +71,11 @@ October 9
              (National General Hospital), Dr. Cipto Mangunkusumo,  **Challenges and future
              outlooks of ICT related research at Indonesia Hospitals.**", ""
    "10.30-12.00", "**Breakout session for working groups:**
-                 Resources 27_ (120 people)
+                 `Resources <wg-update/resource-breakout.pdf>`_ (120 people)
 
                  Bioscience, Biodiversity and Lake Ecology  (40 people)
 
-                 Telescience 30_ (15 people)
+                 `Telescience wg-update/telescience-breakout.pdf`_ (15 people)
 
                  Cyberlearning (15 people)", "WG Chairs"
    "12.00-14.00", "PRAGMA Steering Committee meeting", "Peter Arzberger"
@@ -95,22 +95,16 @@ October 9
                  Figueiredo Renato |18|_ (demo)", "Demo Chairs"
    "16.30-16.50", "Poster session", ""
    "16.50-17.50", "**Working group updates:**
-                 Resources 28_
+                 `Resources <wg-update/resources-update.pdf>`_
 
-                 Bioscience, Biodiversity and Lake Ecology  25_
+                 `Bioscience, Biodiversity and Lake Ecology <wg-update/bioscience-update.pdf>`_
 
-                 Telescience 25_
+                 Telescience 
 
-                 Cyberlearning  26_
+                 `Cyberlearning  <wg-update/cyberlearning-update.pdf>`_
 
-                 Students 29_", "WG Chairs"
+                 `Students <wg-update/students-update.pdf>`_ "WG Chairs"
 
-.. _25: wg-update/bioscience-update.pdf
-.. _26: wg-update/cyberlearning-update.pdf
-.. _27: wg-update/resource-breakout.pdf
-.. _28: wg-update/resources-update.pdf
-.. _29: wg-update/students-update.pdf
-.. _30: wg-update/telescience-breakout.pdf
 
 .. |1| replace:: Breaking the Trade-off between Performance and Reliability in Network Storage System
 .. _1: student-session/network-storage.pdf
