@@ -48,21 +48,21 @@ October 8
    "11.10-12.30", "**Working Group updates**", "WG Chairs"
    "14.00-15.30", 
    "**Working Groups breakout Session:**
-     Resources WG |26|_ (120 people)
+   Resources WG |26|_ (120 people)
                  
-     Bioscience, Biodiversity, Lake Ecology (60 people)
+   Bioscience, Biodiversity, Lake Ecology (60 people)
                  
-     Telescience (40  people)
+   Telescience (40  people)
                  
-     Cyberlearning (40 people)", "WG Chairs"
+   Cyberlearning (40 people)", "WG Chairs"
    "16.00-17.00", "**Student best Lightning talks**", "Student Chairs"
    "17.00-18.00", 
    "**ICDS best papers  talks** 
-     |21|_
+   |21|_
 
-     |23|_
+   |23|_
 
-     |25|_", "Beth Plale (Indiana University, USA), Miao Chen (Indiana University, USA)"
+   |25|_", "Beth Plale (Indiana University, USA), Miao Chen (Indiana University, USA)"
 
 October 9
 -----------
@@ -77,41 +77,44 @@ Agenda October 9**
    outlooks of ICT related research at Indonesia Hospitals.**", ""
    "10.30-12.00", 
    "**Breakout session for working groups:**
-    `Resources <wg-update/resource-breakout.pdf>`_ (120 people)
 
-    Bioscience, Biodiversity and Lake Ecology  (40 people)
+   `Resources <wg-update/resource-breakout.pdf>`_ (120 people)
 
-    `Telescience <wg-update/telescience-breakout.pdf>`_ (15 people)
+   Bioscience, Biodiversity and Lake Ecology  (40 people)
 
-    Cyberlearning (15 people)", "WG Chairs"
+   `Telescience <wg-update/telescience-breakout.pdf>`_ (15 people)
+
+   Cyberlearning (15 people)", "WG Chairs"
    "12.00-14.00", "PRAGMA Steering Committee meeting", "Peter Arzberger"
    "14.00-16.30", 
    "**Demo/presentation session:**
-     Haga Jason |17|_ (demo)
 
-     Haga Jason |15|_ (demo)
+   Haga Jason |17|_ (demo)
 
-     Wijaya Sony Hartono |22|_ (presentation)
+   Haga Jason |15|_ (demo)
 
-     Syahriar Arry Yanuar |19|_ (presentation)
+   Wijaya Sony Hartono |22|_ (presentation)
 
-     Smallen Shava |14|_ (demo)
+   Syahriar Arry Yanuar |19|_ (presentation)
 
-     Figueiredo Renato |16|_ (demo)
+   Smallen Shava |14|_ (demo)
 
-     Figueiredo Renato |18|_ (demo)", "Demo Chairs"
+   Figueiredo Renato |16|_ (demo)
+
+   Figueiredo Renato |18|_ (demo)", "Demo Chairs"
    "16.30-16.50", "Poster session", ""
    "16.50-17.50", 
    "**Working group updates:**
-     `Resources <wg-update/resources-update.pdf>`_
 
-     `Bioscience, Biodiversity and Lake Ecology <wg-update/bioscience-update.pdf>`_
+   `Resources <wg-update/resources-update.pdf>`_
 
-     Telescience 
+   `Bioscience, Biodiversity and Lake Ecology <wg-update/bioscience-update.pdf>`_
 
-     `Cyberlearning  <wg-update/cyberlearning-update.pdf>`_
+   Telescience 
 
-     `Students <wg-update/students-update.pdf>`_", "WG Chairs"
+   `Cyberlearning  <wg-update/cyberlearning-update.pdf>`_
+
+   `Students <wg-update/students-update.pdf>`_", "WG Chairs"
    "17.50-18.10", 
    "Summary of Executive Committee meeting (Peter Arzberger)
                  
@@ -119,7 +122,7 @@ Agenda October 9**
    
    Wrap UP (PRAGMA 29 General Chair)
 
-   |24|_ Jelina Tetangco - Advanced Science and Technology Institute, PH", 
+   |24|_ Jelina Tetangco - Advanced Science and Technology Institute, PH", ""
 
 .. |1| replace:: Breaking the Trade-off between Performance and Reliability in Network Storage System
 .. _1: student-session/network-storage.pdf
