@@ -2,11 +2,9 @@
 
 Pragma 29 Presentations
 =======================
-.. contents::
-
-Info
------
 All available presentations have been converted to PDF format.
+
+.. contents::
 
 October 7
 ----------
@@ -31,7 +29,7 @@ October 7
 
 October 8
 -----------
-.. csv-table:: **Agenda**
+.. csv-table:: **Agenda October 8**
    :header: "Time",  "Topics", "Chair"
  
    "", "Plenary", ""
@@ -66,7 +64,7 @@ October 8
 
 October 9
 -----------
-.. csv-table:: **Agenda**
+.. csv-table:: **Agenda October 9**
    :header: "Time",  "Topics", "Chair"
 
    "09.00-09.10", "Opening remarks", "Heru  Suhartanto (Universitas Indonesia)"
