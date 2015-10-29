@@ -11,7 +11,6 @@ October 7
 
 .. csv-table:: **Student Session Lightning Talks**
    :header: "Slot", "Presenter", "Title"
-   :widths: 10, 20, 70
 
    "S01",  "Hiroki Ohtsuji",        |1|_      
    "S02",  "Irfan Fadhila",         |2|_ 
@@ -31,7 +30,7 @@ October 8
 -----------
 .. csv-table:: **Agenda October 8**
    :header: "Time",  "Topics", "Chair"
- 
+
    "", "Plenary", ""
    "09.00-09.30", "**Welcome remark and introduction:**
                  Opening speech by General Chair: Heru Suhartanto
@@ -46,8 +45,8 @@ October 8
    Universitas Indonesia) and dr. Budi Wiweko, MD, OG (REI), Ph.D (Faculty of Medicine, 
    Universitas Indonesia) . **The current Tele-Health Research and Development at UI**, "Heru Suhartanto (Universitas Indonesia)"
    "11.10-12.30", "**Working Group updates**", "WG Chairs"
-   "14.00-15.30", 
-   "**Working Groups breakout Session:**
+   "14.00-15.30", "**Working Groups breakout Session:**
+   
    Resources WG |26|_ (120 people)
                  
    Bioscience, Biodiversity, Lake Ecology (60 people)
@@ -56,8 +55,8 @@ October 8
                  
    Cyberlearning (40 people)", "WG Chairs"
    "16.00-17.00", "**Student best Lightning talks**", "Student Chairs"
-   "17.00-18.00", 
-   "**ICDS best papers  talks** 
+   "17.00-18.00", "**ICDS best papers  talks** 
+   
    |21|_
 
    |23|_
@@ -66,7 +65,7 @@ October 8
 
 October 9
 -----------
-Agenda October 9**
+.. csv-table:: **Agenda October 9**
    :header: "Time",  "Topics", "Chair"
 
    "09.00-09.10", "Opening remarks", "Heru  Suhartanto (Universitas Indonesia)"
@@ -75,9 +74,8 @@ Agenda October 9**
    "09.35-10.00", "Invited speaker 3: Dr. dr. Andri Lubis, Head of Research Department,  RSPUN
    (National General Hospital), Dr. Cipto Mangunkusumo,  **Challenges and future
    outlooks of ICT related research at Indonesia Hospitals.**", ""
-   "10.30-12.00", 
-   "**Breakout session for working groups:**
-
+   "10.30-12.00", "**Breakout session for working groups:**
+   
    `Resources <wg-update/resource-breakout.pdf>`_ (120 people)
 
    Bioscience, Biodiversity and Lake Ecology  (40 people)
@@ -86,9 +84,8 @@ Agenda October 9**
 
    Cyberlearning (15 people)", "WG Chairs"
    "12.00-14.00", "PRAGMA Steering Committee meeting", "Peter Arzberger"
-   "14.00-16.30", 
-   "**Demo/presentation session:**
-
+   "14.00-16.30", "**Demo/presentation session:**
+   
    Haga Jason |17|_ (demo)
 
    Haga Jason |15|_ (demo)
@@ -103,8 +100,7 @@ Agenda October 9**
 
    Figueiredo Renato |18|_ (demo)", "Demo Chairs"
    "16.30-16.50", "Poster session", ""
-   "16.50-17.50", 
-   "**Working group updates:**
+   "16.50-17.50", "**Working group updates:**
 
    `Resources <wg-update/resources-update.pdf>`_
 
@@ -115,8 +111,7 @@ Agenda October 9**
    `Cyberlearning  <wg-update/cyberlearning-update.pdf>`_
 
    `Students <wg-update/students-update.pdf>`_", "WG Chairs"
-   "17.50-18.10", 
-   "Summary of Executive Committee meeting (Peter Arzberger)
+   "17.50-18.10", "Summary of Executive Committee meeting (Peter Arzberger)
                  
    |20|_  Jose Fortes
    
