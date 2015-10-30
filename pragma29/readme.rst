@@ -111,7 +111,7 @@ October 9
    `Cyberlearning  <presentations/wg-update/cyberlearning-update.pdf>`_
 
    `Students <presentations/wg-update/students-update.pdf>`_", "WG Chairs"
-   "17.50-18.10", "Summary of Executive Committee meeting (Peter Arzberger)
+   "17.50-18.10", "|27|_ of Executive Committee meeting (Peter Arzberger)
                  
    |20|_  Jose Fortes
    
@@ -174,3 +174,5 @@ October 9
 .. _25: presentations/lifemapper-ICDS2015.pdf
 .. |26| replace:: PRAGMA ENT report 
 .. _26: presentations/ent-report.pdf
+.. |27| replace:: Summary
+.. _27: presentations/wg-update/steering-committee.pdf
