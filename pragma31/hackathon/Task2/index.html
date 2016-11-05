@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/material.min.css">
+        <script src="js/jquery-3.1.0.min.js"></script>
+        <script src="js/dashboardControl.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRmEUUVnLQasEnm_w5tK06uUJxvtwaclM"></script>
+        <script type="text/javascript" src="js/loader.js"></script>
+        <script src="js/markerclusterer.js"></script>
+        <script>
+            google.charts.load('current', {'packages':['corechart']});
+            google.charts.setOnLoadCallback(drawChart);
+            function drawChart() {
+
+                var data_cpu = google.visualization.arrayToDataTable([
+                ['CPU Resource', 'resource'],
+                ['Available',     8],
+                ['Used',     5],
+                ]);
+
+                var options_cpu = {
+                backgroundColor: '#3D4153',
+                pieSliceBorderColor: 'none',
+                pieHole: 0.75,
+                chartArea: {left:6,top:6,width:92,height:92},
+                pieSliceText: 'none',
+                slices: [{color: '#EFA430'}, {color: '#6E717E'}],
+                legend: 'none'
+                };
+
+                var data_mem = google.visualization.arrayToDataTable([
+                ['CPU Resource', 'resource'],
+                ['Available',     8],
+                ['Used',     5],
+                ]);
+
+                var options_mem = {
+                backgroundColor: '#3D4153',
+                pieSliceBorderColor: 'none',
+                pieHole: 0.75,
+                chartArea: {left:6,top:6,width:92,height:92},
+                pieSliceText: 'none',
+                slices: [{color: '#9CCBE5'}, {color: '#6E717E'}],
+                legend: 'none'
+                };
+
+                var chart_cpu = new google.visualization.PieChart(document.getElementById('chart_cpu'));
+                var chart_mem = new google.visualization.PieChart(document.getElementById('chart_memory'));
+                chart_cpu.draw(data_cpu, options_cpu);
+                chart_mem.draw(data_mem, options_mem);
+            }
+        </script>
+    </head>
+    <body>
+        <header id="title">
+            <p class="title-center">PRAGMA Cloud Testbed services</p>
+            <div class="btn_text" onclick="show_filter()">
+                <img class="btn_img" src="img/filter.png"></img>
+                <span class="btn_lable">Filter</span>
+            </div>
+            <script>
+                function show_filter(){          
+                        $(".filter-div").css("-webkit-backdrop-filter", "blur(10px)");
+                        $(".filter-div").css("visibility", "visible");
+                }
+            </script>
+        </header>
+        
+        <section id="content">
+            <aside id="status">
+
+                <div class="dump-text">no more selected resource</div>
+
+
+
+            </aside>
+            <div style="position:fixed; height:100%; width:100%;">
+            <section id="map"></section>
+            </div>
+
+            <div class="more_detail" style="display:none;">
+                <article class="article-bar"><p class="card-title">UCSD/SDSC cloud</p><img class="btn_close" src="img/close.png" onclick="$('.more_detail').hide();"></img></article>
+                <table cellpadding="10" style="width:100%">
+                    <tr>
+                        <td valign="top">
+                            <div class="group_detail">
+                                <span class="info_title">Notes</span></br>
+                                <span class="info_des" id="1">(no notes)</span>
+                            </div>
+                            <div class="group_detail">
+                                <span class="info_title">Contact</span></br>
+                                <span class="info_des" id="2">(no notes)</span>
+                            </div>
+                            <div class="group_detail">
+                                <span class="info_title">Location</span></br>
+                                <span class="info_des" id="3">(no notes)</span>
+                            </div>
+                            <div class="group_detail">
+                                <span class="info_title">Resource Type</span></br>
+                                <span class="info_des" id="4">(no notes)</span>
+                            </div>  
+                        </td>
+                        <td valign="top">
+                            <div class="group_detail">
+                                <span class="info_title">Pragma_boot path</span></br>
+                                <span class="info_des" id="5">(no notes)</span>
+                            </div>
+                            <div class="group_detail">
+                                <span class="info_title">Pragma_boot version</span></br>
+                                <span class="info_des" id="6">(no notes)</span>
+                            </div>
+                            <div class="group_detail">
+                                <span class="info_title">Python path</span></br>
+                                <span class="info_des" id="7">(no notes)</span>
+                            </div>
+                            <div class="group_detail">
+                                <span class="info_title">Temporary directory</span></br>
+                                <span class="info_des" id="8">(no notes)</span>
+                            </div>
+                            <div class="group_detail">
+                                <span class="info_title">Username</span></br>
+                                <span class="info_des" id="9">(no notes)</span>
+                            </div>
+                            <div class="group_detail">
+                                <span class="info_title">Deployment type</span></br>
+                                <span class="info_des" id="10">(no notes)</span>
+                            </div>
+                            <div class="group_detail">
+                                <span class="info_title">Site hostname</span></br>
+                                <span class="info_des" id="11">(no notes)</span>
+                            </div>
+                            <div class="group_detail">
+                                <span class="info_title">Latitude</span></br>
+                                <span class="info_des" id="12">(no notes)</span>
+                            </div>
+                            <div class="group_detail">
+                                <span class="info_title">Longtitude</span></br>
+                                <span class="info_des" id="13">(no notes)</span>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+
+   
+            </div>
+
+            <div class="filter-div">
+                <article class="article-bar"><p class="card-title">Filter</p><img class="btn_close" src="img/close.png" onclick="hide_filter()"></img></article>
+                
+                
+                    <section id="text-input-section">
+                        <span id="text-cpu-lable">CPU</span><span id="text-memory-lable">Memory(GB)</span>
+                        <input type="number" class="text-input" id="cpu"></input>
+                        <input type="number" class="text-input" id="mem"></input>
+                    </section>
+
+                    <section id="ent-section">
+                        <span class="card-title-mini">ENT-enabled</span></br>
+                        <input class="radio_btn" type="radio" name="ent" id="all"> All<br>
+                        <input class="radio_btn" type="radio" name="ent" id="enabled"> Enabled
+                        <input class="radio_btn" style="margin-left:25px;" type="radio" name="ent" id="disabled"> Disabled
+                    </section>
+                    <section id="btn-section">
+                        <button id="button" class="btn-default" type="submit">APPLY</button>
+                    </section>
+                
+
+            </div>
+            <script>
+                function hide_filter(){        
+                        $(".filter-div").css("-webkit-backdrop-filter", "blur(0px)");  
+                        $(".filter-div").css("visibility", "hidden");
+                }
+            </script>
+
+
+        </section>
+        
+        <!--    JQUERY    -->
+        <script>
+            $(function(){
+                initMap();
+                console.log('Yeah');
+                getDescription();
+                console.log('end');
+                
+                $("button").click(function(){
+                        var cpu = $('#cpu').val();
+                        var mem = $('#mem').val();
+                        var ent;
+                        
+                        if($('#enabled').is(':checked')){
+                            ent = 'yes';
+                        }else if($('#disabled').is(':checked')){
+                            ent = 'no';
+                        }else{
+                            ent = 'all';
+                        }
+                        
+                        filterMarker(cpu,mem,ent);
+                        
+                    });
+			});
+        </script>
+    </body>
+</html>

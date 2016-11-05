@@ -1,0 +1,345 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #191E2C;
+}
+#map {
+    height: 100%;
+    z-index: 0;
+    position: fixed;
+}
+#content{
+    height: 100%;
+}
+#status{
+    padding-top: 48px;
+    position: absolute;
+    width: 220px;
+    -webkit-backdrop-filter: blur(10px);
+    background-color: rgba(39, 45, 62, 0.75);
+    border-right: solid 1px #3D4153;
+    z-index: 1;
+    box-sizing: border-box;
+    min-height: 100%;
+    
+}
+#title{
+    position: fixed;
+    width: 100%;
+    height: 48px;
+    background: linear-gradient(#3D4358,#272D3E);
+    border-bottom: solid 1px #3D4153;
+    box-shadow: 0px 3px 6px rgba(0,0,0,0.16);
+    z-index: 4;
+    color: #fff;
+}
+
+.title-center{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 14pt;
+}
+.card{
+    border-radius: 3px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+    width: 210px;
+    background-color: #3D4153;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+    animation-name: card_animate;
+    animation-duration: 0.25s;
+    animation-timing-function: ease-out;
+}
+.card-title{
+    margin-left: 10px;
+    padding-top: 6px;
+    color: #fff;
+    font-size: 12pt;
+}
+.card-title-mini{
+    margin-left: 10px;
+    padding-top: 5px;
+    color: #fff;
+    font-size: 10pt;
+}
+.article-bar{
+    border-radius: 3px 3px 0px 0px;
+    background-color: #55596A;
+    height: 35px;
+    width: 100%;
+}
+.ent{
+    padding-top: 5px;
+    margin-top: 10px;
+    width: 100%;
+    height: 35px;
+    background-color: #55596A;
+}
+.chart-div{
+    margin-top: -15px;
+    width: 105px;
+    height: 105px;
+    position: absolute;
+    z-index: 1;
+}
+.chart_memory{
+    margin-left: 105px;
+}
+#resource{
+    margin-top: 130px;
+}
+#chart-cpu-lable{
+    margin-top: 90px;
+    color: #fff;
+    position: absolute;
+    width: 105px;
+    text-align: center;
+    font-weight: 100;
+    font-size: 10pt;
+}
+#chart-memory-lable{
+    margin-top: 90px;
+    margin-left: 105px;
+    color: #fff;
+    position: absolute;
+    width: 105px;
+    text-align: center;
+    font-weight: 100;
+    font-size: 10pt;
+}
+.indicatior{
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+#indicatior-cpu{
+    background-color: #EFA430;
+}
+#indicatior-mem{
+    background-color: #9CCBE5;
+}
+.resource-detail{
+    color: #fff;
+    margin-left: 28px;
+    margin-bottom: 0px;
+    font-size: 9pt;
+    font-weight: 100;
+}
+#ENT-section{
+    height: 35px;
+    width: 100%;
+    background-color: #464A5F;
+    margin-top: 10px;
+}
+.oneline-title{
+    margin-top: 3px;
+    position: absolute;
+    font-size: 10pt;
+}
+.indicatior-light{
+    width: 16px;
+    height: 16px;
+    border-radius: 8px;
+    background-color: #76FF03;
+    position: absolute;
+    right: 15px;
+    margin-top: 9px;
+}
+.card-des-mini{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: -35px;
+    color: rgba(256, 256, 256, 0.5);
+    font-size: 10pt;
+    font-weight: 100;
+}
+.btn-default{
+    width: 200px;
+    height: 30px;
+    border-radius: 3px;
+    background-color: #EFA430;
+    color: #fff;
+    font-size: 10pt;
+    border: 0;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.btn_close{
+    width: 24px;
+    position: absolute;
+    right: 10px;
+    margin-top: -40px;
+}
+.num{
+    font-size: 20pt;
+    font-weight: normal;
+    margin-top: -35px;
+    position: absolute;
+    z-index: 2;
+}
+
+/* new */
+
+.filter-div{
+    visibility: hidden;
+    margin-top: 60px;
+    width: 210px;
+    height: 225px;
+    background-color: rgba(39, 45, 62, 0.5);
+    position: absolute;
+    right: 5px;
+    z-index: 1;
+    -webkit-backdrop-filter: blur(0px);
+    border: 1px solid #3D4153;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.32);
+    border-radius: 3px;
+    animation-name: card_animate;
+    animation-duration: 0.25s;
+    animation-timing-function: ease-out;
+}
+#text-input-section{
+    padding: 10px;
+}
+#text-cpu-lable{
+    color: #fff;
+    position: absolute;
+    width: 95px;
+    font-size: 10pt;
+}
+#text-memory-lable{
+    margin-left: 103px;
+    color: #fff;
+    position: absolute;
+    width: 95px;
+    font-size: 10pt;
+}
+.text-input{
+    width: 80px;
+    height: 25px;
+    border-radius: 2px;
+    border: 0;
+    background-color: #464A5F;
+    font-size: 16pt;
+    color: #fff;
+    padding-left: 5px;
+}
+.filter-div{
+    position: fixed;
+}
+.filter-div .text-input{
+    margin-top: 20px;
+}
+.filter-div #mem{
+    margin-left: 13px;
+}
+#ent-section{
+    color: #fff;
+    padding: 10px;
+}
+
+#ent-section .card-title-mini{
+    margin-left: 0px;
+}
+.filter-div .btn-default{
+    margin-top: 5px;
+}
+.btn_img{
+    width: 20px;
+    position: absolute;
+    right: 55px;
+}
+.btn_text{
+    width: 24px;
+    position: absolute;
+    right: 10px;
+    margin-top: -35px;
+}
+.btn_lable{
+    color: #fff;
+    font-size: 14pt;
+    font-weight: 100;
+    right: 5px;
+    position: absolute;
+}
+.more_detail{
+    position: fixed;
+    z-index: 2;
+    min-height: 375px;
+    width: 480px;
+    margin-left: 225px;
+    margin-top: 59px;
+    background-color: rgba(39, 45, 62, 0.5);
+    -webkit-backdrop-filter: blur(15px);
+    border: 1px solid #3D4153;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.32);
+    border-radius: 3px;
+    color: #fff;
+    box-sizing: border-box;
+    animation-name: card_detail_animate;
+    animation-duration: 0.25s;
+    animation-timing-function: ease-out;
+}
+.info_title{
+    
+}
+.info_des{
+    color: rgba(256,256,256,0.5);
+}
+.group_detail{
+    margin-bottom: 5px;
+}
+.label-chart-big{
+    position: absolute;
+    z-index: 4;
+    font-size: 20pt;
+    color: #fff;
+    font-weight: 100;
+    width: 105px;
+    text-align: center;
+    margin-top: 22px;
+}
+.label-chart-small{
+    position: absolute;
+    z-index: 4;
+    font-size: 9pt;
+    color: #fff;
+    font-weight: 100;
+    width: 105px;
+    text-align: center;
+    margin-top: 40px;
+}
+.mem-type{
+    margin-left: 105px;
+}
+.dump-text{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}
+@keyframes card_animate {
+    from {
+        margin-top: -25px;
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes card_detail_animate {
+    from {
+        margin-left: -25px;
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}

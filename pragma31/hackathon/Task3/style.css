@@ -1,0 +1,55 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto';
+body{
+	margin:0;
+	padding:0;
+	color:white;
+	overflow:hidden;
+	font-family: 'Roboto', sans-serif;
+}
+.left{
+	width:15%;
+	height:1024px;
+	color :white;
+	margin:0px;
+	left:0px;
+	top:0px;
+	position:fixed;
+	background-color:#464646;
+}
+#algochart{
+	clear:both;
+}
+#test{
+	float:left;
+}
+.total{
+	margin-top: 5px;
+	font-size:40px;
+	font-style:bold;
+	text-align:center;
+}
+.totnum{
+	font-size:55px;
+	font-style:bold;
+	text-align:center;
+}
+.exp{
+	font-size:30px;
+	font-style:bold;
+	text-align:center;
+}
+.top{
+	float:right;
+	width:83%;
+	margin:0px;
+	padding:0px;
+}
+.col{
+	width:24%;
+	margin-left:1%;
+	height: 230px;
+	float:left;
+}
+a .col:hover{
+	background-color:red;
+}
