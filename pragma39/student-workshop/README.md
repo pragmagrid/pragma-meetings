@@ -4,7 +4,7 @@ Held: Wednesday June 21, 2023 at Universitas YARSI
 
 1. [Preliminary Results on Predicting Corporate Bankruptcy and Its 
 Systemic Effects using Case-Based Reasoning with Financial and 
-Relational Data](../pragma39/student-workshop/01_presentation.pdf?raw=true) (Dyah Rahayu et al.)
+Relational Data](../student-workshop/01_presentation.pdf?raw=true) (Dyah Rahayu et al.)
 2. [Dashicurt: A Real-time ICU Dashboard Monitoring System using 
 Artificial Intelligence](../pragma39/student-workshop/02_presentation.pdf?raw=true) (Ilham Ghifari Putirulan et al.)
 3. [Smartphone Sensor-Based Cycling Environment Monitoring for Bicycle 
